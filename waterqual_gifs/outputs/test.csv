@@ -1,0 +1,166 @@
+"polstn","towdate","month","year","lat","lon","tribmarsh","region","loc","habitat","m_secchi","m_sal","m_doc","m_temp"
+"NB-1001",2017-03-06,"03","2017",38.109853,-122.484802,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",12.5,0.965,10.275,11.675
+"NB-1004",2017-03-27,"03","2017",38.100861,-122.478377,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",17.5,5.945,9.84,13.97
+"NB-1006",2017-03-06,"03","2017",38.114268,-122.46608,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",18.5,1.19333333333333,10.56,11.31
+"NB-1013",2017-03-08,"03","2017",38.142053,-122.392817,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",15.5,0.94,10.3166666666667,12.52
+"NB-1013",2017-03-23,"03","2017",38.142053,-122.392817,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",24.5,3.775,9.99,13.76
+"NB-1017",2017-03-08,"03","2017",38.135877,-122.38503,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",14,0.9,10.76,12.785
+"NB-1017",2017-03-23,"03","2017",38.135877,-122.38503,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",25.5,3.815,10.06,13.94
+"NB-1029",2017-03-09,"03","2017",38.118749,-122.389048,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",21,1.4,10.16,12.57
+"NB-1038",2017-03-09,"03","2017",38.109606,-122.414204,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",24,1.9,10.27,12.41
+"NB-1042",2017-03-09,"03","2017",38.111209,-122.360762,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",30,1.64,10.53,12.67
+"NB-1043",2017-03-09,"03","2017",38.111621,-122.346906,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",32,1.65,10.57,12.6
+"NB-1057",2017-03-09,"03","2017",38.103881,-122.321876,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",31,1.44,10.59,12.75
+"NB-1062",2017-03-27,"03","2017",38.092658,-122.427093,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",18,5.765,9.8,14.08
+"NB-1066",2017-03-27,"03","2017",38.094052,-122.37515,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",29,5.56,9.87,14.04
+"NB-1085",2017-03-07,"03","2017",38.086254,-122.320721,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",17,0.73,10.82,12.43
+"NB-1099",2017-03-27,"03","2017",38.075398,-122.345951,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",16,5.565,9.95,14.145
+"NB-1100",2017-03-07,"03","2017",38.075703,-122.333419,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",26,0.93,10.86,12.74
+"NB-1103",2017-03-07,"03","2017",38.076629,-122.295229,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",19.5,0.925,10.835,12.865
+"NB-1111",2017-03-09,"03","2017",38.063357,-122.401682,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",42,3.19,10.085,13.225
+"NB-1111",2017-03-15,"03","2017",38.063357,-122.401682,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",44,4.345,10.035,15.395
+"NB-1112",2017-03-15,"03","2017",38.063651,-122.38875,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",43.5,4.255,9.97,15.0275
+"NB-1114",2017-03-15,"03","2017",38.064295,-122.360089,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",44,5.81,9.68,14.15
+"NB-1116",2017-03-15,"03","2017",38.064888,-122.333373,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",72,6.66,9.63,14.37
+"NB-1117",2017-03-07,"03","2017",38.065171,-122.320635,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",NA,0.97,10.73,11.71
+"NB-1117",2017-03-27,"03","2017",38.065171,-122.320635,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",14.5,5.415,9.99,14.2
+"NB-1118",2017-03-15,"03","2017",38.065457,-122.307532,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",40,3.38,10.01,15.05
+"NB-1119",2017-03-07,"03","2017",38.065727,-122.295185,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",12,0.78,10.72,12.15
+"NB-1119",2017-03-27,"03","2017",38.065727,-122.295185,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",8.5,3.115,9.96,13.575
+"NB-1127",2017-03-09,"03","2017",38.051978,-122.413883,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",46,5.1,9.91,13.485
+"NB-1140",2017-03-09,"03","2017",38.040279,-122.463348,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",33,3.27,10.15,12.82
+"NB-1143",2017-03-09,"03","2017",38.04103,-122.42683,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",47,9.69,9.535,12.75
+"NB-1154",2017-03-09,"03","2017",38.043945,-122.280034,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",32,0.68,10.36,12.82
+"NB-1154",2017-03-15,"03","2017",38.043945,-122.280034,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",39.5,6.6625,9.59,13.7325
+"NB-1159",2017-03-09,"03","2017",38.029738,-122.439942,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",44,8.79,9.49,12.945
+"NB-1166",2017-03-15,"03","2017",38.031784,-122.345742,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",45,7.72,9.54,13.93
+"NB-1169",2017-03-09,"03","2017",38.032593,-122.307402,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",42,4.95,9.98,13.3
+"NB-1170",2017-03-15,"03","2017",38.032853,-122.295052,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",53,7.62,9.51,13.73
+"NB-1179",2017-03-10,"03","2017",38.019961,-122.401483,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",50.5,10.61,9.58,13.1625
+"NB-1182",2017-03-09,"03","2017",38.017278,-122.359596,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",50,11.275,9.345,12.835
+"NB-1184",2017-03-09,"03","2017",38.021191,-122.333186,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",45,6.915,9.715,12.775
+"NB-1185",2017-03-27,"03","2017",38.021478,-122.320447,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",26,7.56,9.67,13.895
+"NB-1187",2017-03-15,"03","2017",38.020373,-122.291701,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",30,7.53,9.39,13.9
+"NB-1192",2017-03-09,"03","2017",38.010016,-122.413683,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",53,12.48,9.365,12.765
+"NB-1193",2017-03-10,"03","2017",38.010169,-122.401409,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",64,13.0225,9.345,12.9775
+"NB-1195",2017-03-10,"03","2017",38.01052,-122.37472,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",54,6.15,9.82,13.95
+"NB-1195",2017-03-27,"03","2017",38.01052,-122.37472,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",36,7.635,9.64,13.77
+"NB-1196",2017-03-27,"03","2017",38.009634,-122.345364,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",30.5,8.105,9.64,13.865
+"NB-1203",2017-03-10,"03","2017",38.000182,-122.41361,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",64,11.1025,9.4825,13.29
+"NB-1207",2017-03-10,"03","2017",37.991236,-122.449394,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",28,7.04333333333333,9.64666666666667,12.8766666666667
+"NB-1210",2017-03-10,"03","2017",37.990837,-122.413467,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",70.5,10.465,9.585,12.9075
+"NB-1213",2017-03-10,"03","2017",37.991095,-122.371066,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",57.5,3.61,10.235,12.995
+"NB-1223",2017-03-10,"03","2017",37.971779,-122.453739,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",60,8.64,9.555,12.81
+"NB-1225",2017-03-10,"03","2017",37.971708,-122.426371,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",59.5,11.5933333333333,9.44666666666667,12.6766666666667
+"NB-1227",2017-03-10,"03","2017",37.971736,-122.40125,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",63,7.37,9.825,12.945
+"NB-1232",2017-03-10,"03","2017",37.960979,-122.439462,"San Pablo Bay","North Bay","San Pablo Bay","Open Bay",58.5,12.99,52.575,12.53
+"NB-1257",2017-03-10,"03","2017",37.913354,-122.471103,"Central San Francisco Bay","Central Bay","Central Bay","Open Bay",63,9.29,9.65333333333333,12.5466666666667
+"NB-1276",2017-03-10,"03","2017",37.893714,-122.439077,"Central San Francisco Bay","Central Bay","Central Bay","Open Bay",63.5,16.0675,9.2825,12.3775
+"NB-1285",2017-03-10,"03","2017",37.88343,-122.438446,"Central San Francisco Bay","Central Bay","Central Bay","Open Bay",90,14.8233333333333,9.35666666666667,12.4333333333333
+"NB-1295",2017-03-10,"03","2017",37.873133,-122.438934,"Central San Francisco Bay","Central Bay","Central Bay","Open Bay",93.5,21.4075,8.855,12.3875
+"NB-170",2017-03-07,"03","2017",38.267532,-122.285536,"Napa River","North Bay","Napa River","Mainstem",53,0.165,10.5525,11.3325
+"NB-180",2017-03-22,"03","2017",38.259608,-122.285096,"Napa River","North Bay","Napa River","Mainstem",27.5,0.135,9.5275,15.0375
+"NB-190",2017-03-14,"03","2017",38.251454,-122.284446,"Napa River","North Bay","Napa River","Mainstem",93,0.1825,10.17125,15.745
+"NB-200",2017-03-14,"03","2017",38.242509,-122.285838,"Napa River","North Bay","Napa River","Mainstem",100,0.215,10.19,15.8625
+"NB-201",2017-03-14,"03","2017",38.24867,-122.289245,"Napa River","North Bay","Horseshoe Bend","Slough",55,0.41,9.48,16.33
+"NB-201",2017-03-22,"03","2017",38.24867,-122.289245,"Napa River","North Bay","Horseshoe Bend","Slough",33,0.193333333333333,9.58666666666667,15.3966666666667
+"NB-203",2017-03-07,"03","2017",38.253,-122.290145,"Napa River","North Bay","Horseshoe Bend","Slough",53.5,0.19,10.6,11.37
+"NB-210",2017-03-22,"03","2017",38.234721,-122.288939,"Napa River","North Bay","Napa River","Mainstem",51,0.225,9.7025,16.0075
+"NB-242",2017-03-07,"03","2017",38.218628,-122.30424,"Napa River","North Bay","Steamboat Slough","Slough",32,0.385,10.195,11.74
+"NB-252",2017-03-07,"03","2017",38.213346,-122.303082,"Napa River","North Bay","Fagan Slough","Slough Adjacent to Restoration Pond",20,0.46,10.25,11.62
+"NB-252",2017-03-22,"03","2017",38.213346,-122.303082,"Napa River","North Bay","Fagan Slough","Slough Adjacent to Restoration Pond",28,0.71,9.41666666666667,16.48
+"NB-271",2017-03-07,"03","2017",38.194499,-122.318832,"Napa River","North Bay","Mud Slough Napa","Slough Adjacent to Restoration Pond",28,0.43,10.46,11.37
+"NB-271",2017-03-14,"03","2017",38.194499,-122.318832,"Napa River","North Bay","Mud Slough Napa","Slough Adjacent to Restoration Pond",26,0.66,9.07,15.82
+"NB-273",2017-03-22,"03","2017",38.201991,-122.323289,"Napa River","North Bay","Mud Slough Napa","Slough Adjacent to Restoration Pond",29.5,1.455,9.565,16.265
+"NB-283",2017-03-22,"03","2017",38.190885,-122.32935,"Napa River","North Bay","Napa Slough","Slough Adjacent to Restoration Pond",27,1.5925,9.47,16.255
+"NB-287",2017-03-07,"03","2017",38.191805,-122.348144,"Napa River","North Bay","Napa Slough","Slough Adjacent to Restoration Pond",22,0.48,10.34,11.47
+"NB-287",2017-03-22,"03","2017",38.191805,-122.348144,"Napa River","North Bay","Napa Slough","Slough Adjacent to Restoration Pond",25.5,1.245,9.47,16.53
+"NB-320",2017-03-14,"03","2017",37.459986,-121.955488,"Napa River","North Bay","Napa River","Mainstem",21,0.66375,9.3275,16.16625
+"NB-330",2017-03-14,"03","2017",38.149347,-122.289791,"Napa River","North Bay","Napa River","Mainstem",23,0.645,9.375,15.635
+"NB-341",2017-03-14,"03","2017",38.143192,-122.293005,"Napa River","North Bay","South Slough","Slough Adjacent to Restoration Pond",26,0.565,9.67,14.595
+"NB-341Pond",2017-03-07,"03","2017",38.137896,-122.291239,"Napa River","North Bay","NRU Pond 3 Knight Island","Restoration Pond",31,0.56,10.555,11.36
+"NB-343",2017-03-14,"03","2017",38.141564,-122.304206,"Napa River","North Bay","South Slough","Slough Adjacent to Restoration Pond",20,0.68,9.57,15.35
+"NB-361",2017-03-14,"03","2017",38.12191,-122.289746,"Napa River","North Bay","Dutchman Slough","Slough Adjacent to Restoration Pond",22,0.53,9.74,14.265
+"NB-361",2017-03-22,"03","2017",38.12191,-122.289746,"Napa River","North Bay","Dutchman Slough","Slough Adjacent to Restoration Pond",37.75,3.795,9.5625,15.1075
+"NB-540",2017-03-08,"03","2017",38.220628,-122.423021,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",27,0.405,9.975,11.43
+"NB-540",2017-03-23,"03","2017",38.220628,-122.423021,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",20.5,0.96,8.26,16.14
+"NB-560",2017-03-13,"03","2017",38.211966,-122.416972,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",17.75,0.74,8.0625,15.2275
+"NB-560",2017-03-23,"03","2017",38.211966,-122.416972,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",19,0.39,7.895,14.85
+"NB-570",2017-03-08,"03","2017",38.208053,-122.408514,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",24.5,0.685,9.8125,11.69
+"NB-570",2017-03-13,"03","2017",38.208053,-122.408514,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",18,0.74,7.88,15.55
+"NB-590",2017-03-08,"03","2017",38.196604,-122.393108,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",32,0.563333333333333,10.0366666666667,11.3533333333333
+"NB-590",2017-03-13,"03","2017",38.196604,-122.393108,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",17,0.725,8.605,15.765
+"NB-590",2017-03-23,"03","2017",38.196604,-122.393108,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",24.5,0.785,8.525,15.1725
+"NB-592",2017-03-08,"03","2017",38.199766,-122.388073,"Sonoma Creek","North Bay","Sonoma Creek","Slough",23,0.7225,10.0275,11.84
+"NB-592",2017-03-23,"03","2017",38.199766,-122.388073,"Sonoma Creek","North Bay","Sonoma Creek","Slough",30.5,0.773333333333333,8.76,15.2833333333333
+"NB-600",2017-03-13,"03","2017",38.190556,-122.396434,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",20,0.79,8.59,15.73
+"NB-610",2017-03-23,"03","2017",38.18863,-122.40728,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",28.5,1.08666666666667,8.62333333333333,15.4266666666667
+"NB-620",2017-03-08,"03","2017",38.187371,-122.417542,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",25.5,0.855,10.1975,12.1925
+"NB-620",2017-03-13,"03","2017",38.187371,-122.417542,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",21,0.79,8.73,15.78
+"NB-620",2017-03-23,"03","2017",38.187371,-122.417542,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",22,0.813333333333333,8.695,15.335
+"NB-630",2017-03-08,"03","2017",38.180793,-122.418642,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",23.5,0.8575,10.195,12.0075
+"NB-630",2017-03-13,"03","2017",38.180793,-122.418642,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",23,0.7,9,15.65
+"NB-650",2017-03-08,"03","2017",38.164493,-122.418564,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",16.5,0.913333333333333,10.0333333333333,13.4533333333333
+"NB-650",2017-03-13,"03","2017",38.164493,-122.418564,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",35,0.66,9.11,15.64
+"NB-660",2017-03-13,"03","2017",38.161803,-122.414072,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",25,0.7,9.09,16.12
+"NB-660",2017-03-23,"03","2017",38.161803,-122.414072,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",26,3.455,9.3325,14.155
+"NB-670",2017-03-08,"03","2017",38.156093,-122.406754,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",13,0.9325,10.2,12.5475
+"NB-670",2017-03-13,"03","2017",38.156093,-122.406754,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",15.5,0.905,9.10666666666667,15.3633333333333
+"NB-670",2017-03-23,"03","2017",38.156093,-122.406754,"Sonoma Creek","North Bay","Sonoma Creek","Mainstem",23.5,3.9,9.52,13.475
+"NB-720",2017-03-21,"03","2017",38.23149,-122.629091,"Petaluma River","North Bay","Petaluma River","Mainstem",89,0.59,8.36666666666667,16.3933333333333
+"NB-730",2017-03-06,"03","2017",38.228889,-122.619091,"Petaluma River","North Bay","Petaluma River","Mainstem",42.5,0.286666666666667,9.55333333333333,12.1433333333333
+"NB-730",2017-03-16,"03","2017",38.228889,-122.619091,"Petaluma River","North Bay","Petaluma River","Mainstem",39.8333333333333,0.605,8.09166666666667,16.1888888888889
+"NB-760",2017-03-21,"03","2017",38.216968,-122.591211,"Petaluma River","North Bay","Petaluma River","Mainstem",59.5,0.995,7.7125,16
+"NB-782",2017-03-16,"03","2017",38.209225,-122.579314,"Petaluma River","North Bay","Petaluma River","Slough",38,0.9,7.995,16.5
+"NB-790",2017-03-06,"03","2017",38.200296,-122.56522,"Petaluma River","North Bay","Petaluma River","Mainstem",32,0.593333333333333,9.62666666666667,10.9866666666667
+"NB-790",2017-03-16,"03","2017",38.200296,-122.56522,"Petaluma River","North Bay","Petaluma River","Mainstem",32,0.94,7.97,16.67
+"NB-792",2017-03-06,"03","2017",38.208715,-122.567674,"Petaluma River","North Bay","Petaluma River","Slough",27,0.72,9.34,11.03
+"NB-792",2017-03-21,"03","2017",38.208715,-122.567674,"Petaluma River","North Bay","Petaluma River","Slough",49,1.16,7.86,16.2033333333333
+"NB-810",2017-03-06,"03","2017",38.195869,-122.547866,"Petaluma River","North Bay","Petaluma River","Mainstem",28,0.765,9.2875,11.21
+"NB-810",2017-03-21,"03","2017",38.195869,-122.547866,"Petaluma River","North Bay","Petaluma River","Mainstem",42,1.38,7.865,16.2225
+"NB-840",2017-03-16,"03","2017",38.172239,-122.533678,"Petaluma River","North Bay","Petaluma River","Mainstem",26,1.09,8.22,16.57
+"NB-850",2017-03-21,"03","2017",38.1661,-122.537631,"Petaluma River","North Bay","Petaluma River","Mainstem",41,1.7475,8.1625,16.17
+"NB-861",2017-03-06,"03","2017",38.157971,-122.549595,"Petaluma River","North Bay","Mud Slough Petaluma","Slough Adjacent to Restoration Pond",18.5,0.945,9.6125,11.6325
+"NB-861",2017-03-16,"03","2017",38.157971,-122.549595,"Petaluma River","North Bay","Mud Slough Petaluma","Slough Adjacent to Restoration Pond",22.75,1.66125,7.64375,16.17375
+"NB-861",2017-03-21,"03","2017",38.157971,-122.549595,"Petaluma River","North Bay","Mud Slough Petaluma","Slough Adjacent to Restoration Pond",29.5,1.875,8.26,16.17
+"NB-865",2017-03-06,"03","2017",38.167817,-122.553979,"Petaluma River","North Bay","Mud Slough Petaluma","Slough Adjacent to Restoration Pond",21.5,0.945,9.43,11.475
+"NB-865",2017-03-21,"03","2017",38.167817,-122.553979,"Petaluma River","North Bay","Mud Slough Petaluma","Slough Adjacent to Restoration Pond",28.5,1.50333333333333,8.04333333333333,16.15
+"NB-870",2017-03-16,"03","2017",38.152394,-122.538497,"Petaluma River","North Bay","Petaluma River","Mainstem",23,1.355,7.9725,16.33
+"NB-870",2017-03-21,"03","2017",38.152394,-122.538497,"Petaluma River","North Bay","Petaluma River","Mainstem",30.5,1.665,8.12,16.335
+"NB-880",2017-03-16,"03","2017",38.146664,-122.529875,"Petaluma River","North Bay","Petaluma River","Mainstem",19,1.36,8.04,16.325
+"NB-890",2017-03-06,"03","2017",38.141254,-122.520813,"Petaluma River","North Bay","Petaluma River","Mainstem",14,0.95,9.4675,11.565
+"NB-900",2017-03-16,"03","2017",38.133898,-122.514344,"Petaluma River","North Bay","Petaluma River","Mainstem",18,1.395,8.17,16.385
+"NB-900",2017-03-21,"03","2017",38.133898,-122.514344,"Petaluma River","North Bay","Petaluma River","Mainstem",23.5,2.845,8.6125,16.6575
+"NB-910",2017-03-16,"03","2017",38.125165,-122.511166,"Petaluma River","North Bay","Petaluma River","Mainstem",21,1.475,8.12,16.405
+"NB-910",2017-03-21,"03","2017",38.125165,-122.511166,"Petaluma River","North Bay","Petaluma River","Mainstem",46,3.1,8.55,16.6575
+"NB-930",2017-03-06,"03","2017",38.11219,-122.498015,"Petaluma River","North Bay","Petaluma River","Mainstem",14.5,0.905,10.115,12.5725
+"SB-170",2017-03-25,"03","2017",37.460769,-121.977462,"Alviso Marsh","South Bay","South Bay","Slough Adjacent to Restoration Pond",32,8.51875,8.36125,14.72375
+"SB-230",2017-03-25,"03","2017",37.462425,-122.041478,"Alviso Marsh","South Bay","South Bay","Slough Adjacent to Restoration Pond",33,12.5975,8.35,14.45
+"SB-520",2017-03-25,"03","2017",37.437748,-121.994554,"Alviso Marsh","South Bay","South Bay","Slough Adjacent to Restoration Pond",26.25,0.6525,9.05625,14.545
+"SB-530",2017-03-25,"03","2017",37.441938,-122.002721,"Alviso Marsh","South Bay","South Bay","Slough Adjacent to Restoration Pond",29,0.37,9.185,13.715
+"SB-550",2017-03-25,"03","2017",37.449618,-122.018721,"Alviso Marsh","South Bay","South Bay","Slough Adjacent to Restoration Pond",22.5,3.6275,8.7925,14.02
+"SB-650",2017-03-25,"03","2017",37.467836,-122.0594,"Lower South Bay","South Bay","Lower South Bay","Open Bay",41.5,13.9825,8.3875,14.3125
+"SB-700",2017-03-25,"03","2017",37.475334,-122.066962,"Lower South Bay","South Bay","Lower South Bay","Open Bay",63,14.5175,8.4975,14.4175
+"SB-750",2017-03-25,"03","2017",37.482874,-122.074374,"Lower South Bay","South Bay","Lower South Bay","Open Bay",33,11.3275,8.2525,14.78
+"SB-760",2017-03-25,"03","2017",37.478817,-122.084489,"Lower South Bay","South Bay","Lower South Bay","Open Bay",43.25,11.84375,8.6375,14.60375
+"SB-A19 1",2017-03-12,"03","2017",37.463622222,-121.96677778,"Alviso Marsh","South Bay","Pond A19","Restoration Pond",18.5,1.7075,8.765,17.435
+"SB-A19 4",2017-03-12,"03","2017",37.462377778,-121.95187222,"Alviso Marsh","South Bay","Pond A19","Restoration Pond",20.75,1.91,8.59,17.8675
+"SB-A21 1",2017-03-11,"03","2017",37.463808333,-121.98509444,"Alviso Marsh","South Bay","Pond A21","Restoration Pond",46,4.41,9.08,16.505
+"SB-A21 4",2017-03-11,"03","2017",37.461630556,-121.97681389,"Alviso Marsh","South Bay","Pond A21","Restoration Pond",23,4.685,9.035,16.19
+"SB-A21 4",2017-03-25,"03","2017",37.461630556,-121.97681389,"Alviso Marsh","South Bay","Pond A21","Restoration Pond",20.5,5.755,9.02,15.355
+"SB-ALV 1",2017-03-11,"03","2017",37.478817,-122.084489,"Alviso Marsh","South Bay","Alviso Slough","Slough Adjacent to Restoration Pond",30,0.475,9.875,15.36
+"SB-ALV 2",2017-03-11,"03","2017",37.44652,-122.010734,"Alviso Marsh","South Bay","Alviso Slough","Slough Adjacent to Restoration Pond",18,1.79,9.365,16.09
+"SB-ALV 3",2017-03-11,"03","2017",37.45774,-122.021483,"Alviso Marsh","South Bay","Alviso Slough","Slough Adjacent to Restoration Pond",20,4.5425,9.0375,16.18
+"SB-ART 1",2017-03-12,"03","2017",37.446732,-121.966404,"Alviso Marsh","South Bay","Artesian Slough","Slough Adjacent to Restoration Pond",67.5,1.28,8.74,19.385
+"SB-ART 2",2017-03-12,"03","2017",37.452589,-121.966949,"Alviso Marsh","South Bay","Artesian Slough","Slough Adjacent to Restoration Pond",22.5,1.45,8.14,17.465
+"SB-ART 3",2017-03-12,"03","2017",37.459499,-121.966133,"Alviso Marsh","South Bay","Artesian Slough","Slough Adjacent to Restoration Pond",19,1.3775,8.2775,16.815
+"SB-COY 1",2017-03-12,"03","2017",37.461785,-121.967319,"Alviso Marsh","South Bay","Coyote Creek","Slough Adjacent to Restoration Pond",NA,1.9575,8.4725,16.6425
+"SB-COY 2",2017-03-11,"03","2017",37.460769,-121.977462,"Alviso Marsh","South Bay","Coyote Creek","Slough Adjacent to Restoration Pond",15,2.395,8.83,17.06
+"SB-COY 3",2017-03-11,"03","2017",37.46283,-121.98878,"Alviso Marsh","South Bay","Coyote Creek","Slough Adjacent to Restoration Pond",17,2.305,8.99,17.195
+"SB-COY 4",2017-03-11,"03","2017",37.462425,-122.041478,"Alviso Marsh","South Bay","Coyote Creek","Slough Adjacent to Restoration Pond",28,6.32,9.8,14.955
+"SB-DUMP 1",2017-03-12,"03","2017",37.45332,-121.94421,"Alviso Marsh","South Bay","Dump Slough","Slough Adjacent to Restoration Pond",22,0.94,8.275,16.41
+"SB-DUMP 2",2017-03-12,"03","2017",37.4625,-121.95947,"Alviso Marsh","South Bay","Dump Slough","Slough Adjacent to Restoration Pond",22,1.975,8.215,16.73
+"SB-LSB 1",2017-03-11,"03","2017",37.493192,-122.097719,"Lower South Bay","South Bay","Lower South Bay","Open Bay",35,8.1875,9.6875,14.58
+"SB-LSB 2",2017-03-11,"03","2017",37.478817,-122.084489,"Lower South Bay","South Bay","Lower South Bay","Open Bay",45,8.685,10.02,14.355
+"SB-UCOY 1",2017-03-12,"03","2017",37.4671,-121.944141,"Alviso Marsh","South Bay","Coyote Creek","Slough Adjacent to Restoration Pond",22,0.265,8.91,14.215
+"SB-UCOY 2",2017-03-12,"03","2017",37.462506,-121.956491,"Alviso Marsh","South Bay","Coyote Creek","Slough Adjacent to Restoration Pond",24,1.3175,8.55,16.19

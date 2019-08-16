@@ -1,0 +1,1199 @@
+﻿polstn,pol,stn,stn_no,lat,lon,tribmarsh,region,loc,loc_code,habitat,tidesta,station_name
+BAIR 1,Legacy,BAIR 1,1,,,Bair Island,South Bay,Redwood Creek,RED,unkown,,
+BAIR 2,Legacy,BAIR 2,2,,,Bair Island,South Bay,Redwood Creek,RED,unkown,,
+BOA LAU,Legacy,BOA LAU,,,,Bair Island,South Bay,Redwood Creek,RED,unkown,,
+China Camp,Legacy,China Camp,,,,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+CORK 1,Legacy,CORK 1,1,,,Bair Island,South Bay,Corkscrew Slough,CRK,unkown,,
+CORK 2,Legacy,CORK 2,2,,,Bair Island,South Bay,Corkscrew Slough,CRK,unkown,,
+CORK 3,Legacy,CORK 3,3,,,Bair Island,South Bay,Corkscrew Slough,CRK,unkown,,
+FAG 1,Legacy,FAG 1,1,38.2121,-122.292783,Napa River,North Bay,Fagan Slough,FAG,Slough Adjacent to Restoration Pond,,
+FAGAN,Legacy,FAGAN,,,,Napa River,North Bay,Fagan Slough,FAG,Slough Adjacent to Restoration Pond,,
+FAGSL,Legacy,FAGSL,,,,Napa River,North Bay,Fagan Slough,FAG,Slough Adjacent to Restoration Pond,,
+FAGSL,Legacy,FAGSL,,,,Napa River,North Bay,Fagan Slough,FAG,Slough Adjacent to Restoration Pond,,
+GOLD 1,Legacy,GOLD 1,1,,,Bair Island,South Bay,Gold Slough,GLD,unkown,,
+GOLD 2,Legacy,GOLD 2,2,,,Bair Island,South Bay,Gold Slough,GLD,unkown,,
+GOLD 3,Legacy,GOLD 3,3,,,Bair Island,South Bay,Gold Slough,GLD,unkown,,
+GOLD 4,Legacy,GOLD 4,4,,,Bair Island,South Bay,Gold Slough,GLD,unkown,,
+IB 1,Legacy,IB 1,1,,,Bair Island,South Bay,Inner Bair Isl.,BRI,unkown,,
+IB 2,Legacy,IB 2,2,,,Bair Island,South Bay,Inner Bair Isl.,BRI,unkown,,
+LNAP 1,Legacy,LNAP 1,1,,,Napa River,North Bay,Napa River,NPR,unkown,,
+MUD 1,Legacy,MUD 1,1,38.204267,-122.32375,Napa River,North Bay,Mud Slough Napa,MDN,Slough Adjacent to Restoration Pond,,
+MUDSL,Legacy,MUDSL,,,,Napa River,North Bay,Mud Slough Napa,MDN,Slough Adjacent to Restoration Pond,,
+NAP 1,Legacy,NAP 1,1,38.190583,-122.347617,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAP 2,Legacy,NAP 2,2,38.189833,-122.3426,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAP 3,Legacy,NAP 3,3,38.26836,-122.28629,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAP 4,Legacy,NAP 4,4,38.25985,-122.2864,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAP 5,Legacy,NAP 5,5,38.23605,-122.28762,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAP 6,Legacy,NAP 6,6,38.23093,-122.29712,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAP 7,Legacy,NAP 7,7,38.22124,-122.31002,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAP 8,Legacy,NAP 8,8,38.21204,-122.293,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAPR,Legacy,NAPR,,38.26634,-122.286,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAPR 1,Legacy,NAPR 1,1,38.26634,-122.286,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAPR 2,Legacy,NAPR 2,2,38.25166,-122.29369,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAPR 3,Legacy,NAPR 3,3,38.2269,-122.30267,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAPR 4,Legacy,NAPR 4,4,38.2139,-122.30888,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAPR 5,Legacy,NAPR 5,5,38.19768,-122.31477,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAPS 1,Legacy,NAPS 1,1,38.18413,-122.32123,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAPS 2,Legacy,NAPS 2,2,38.19069,-122.32746,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAPS 3,Legacy,NAPS 3,3,38.191,-122.33732,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NAPS 4,Legacy,NAPS 4,4,38.19001,-122.34489,Napa River,North Bay,Napa River,NPR,Mainstem,,
+NB-100,NB-100,NA,NA,38.311988,-122.277715,Napa River,North Bay,Napa River,NPR,Mainstem,"NAPA, NAPA RIVER",9415623
+NB-1000,NB-1000,NA,NA,38.105254,-122.486807,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,PETALUMA RIVER ENTRANCE,9415252
+NB-1001,NB-1001,NA,NA,38.109853,-122.484802,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,PETALUMA RIVER ENTRANCE,9415252
+NB-1002,NB-1002,NA,NA,38.114048,-122.480597,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,PETALUMA RIVER ENTRANCE,9415252
+NB-1003,NB-1003,NA,NA,38.094885,-122.483339,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,PETALUMA RIVER ENTRANCE,9415252
+NB-1004,NB-1004,NA,NA,38.100861,-122.478377,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,PETALUMA RIVER ENTRANCE,9415252
+NB-1005,NB-1005,NA,NA,38.107429,-122.472833,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,PETALUMA RIVER ENTRANCE,9415252
+NB-1006,NB-1006,NA,NA,38.114268,-122.46608,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,PETALUMA RIVER ENTRANCE,9415252
+NB-1007,NB-1007,NA,NA,38.084165,-122.478934,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,PETALUMA RIVER ENTRANCE,9415252
+NB-1008,NB-1008,NA,NA,38.094845,-122.471234,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,PETALUMA RIVER ENTRANCE,9415252
+NB-1009,NB-1009,NA,NA,38.102262,-122.463257,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,PETALUMA RIVER ENTRANCE,9415252
+NB-1010,NB-1010,NA,NA,38.11244,-122.455283,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,PETALUMA RIVER ENTRANCE,9415252
+NB-1011,NB-1011,NA,NA,38.14854,-122.40052,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1012,NB-1012,NA,NA,38.140955,-122.402968,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1013,NB-1013,NA,NA,38.142053,-122.392817,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1014,NB-1014,NA,NA,38.147185,-122.389845,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1015,NB-1015,NA,NA,38.132162,-122.412092,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1016,NB-1016,NA,NA,38.132525,-122.397367,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1017,NB-1017,NA,NA,38.135877,-122.38503,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1018,NB-1018,NA,NA,38.141239,-122.376471,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1019,NB-1019,NA,NA,38.125298,-122.418665,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1020,NB-1020,NA,NA,38.125982,-122.395758,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1021,NB-1021,NA,NA,38.129368,-122.372003,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1022,NB-1022,NA,NA,38.136374,-122.366297,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1023,NB-1023,NA,NA,38.130953,-122.354866,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1024,NB-1024,NA,NA,38.127863,-122.34113,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1025,NB-1025,NA,NA,38.116144,-122.440891,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1026,NB-1026,NA,NA,38.117506,-122.427253,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1027,NB-1027,NA,NA,38.117933,-122.414268,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1028,NB-1028,NA,NA,38.118332,-122.402034,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1029,NB-1029,NA,NA,38.118749,-122.389048,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1030,NB-1030,NA,NA,38.119185,-122.375432,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1031,NB-1031,NA,NA,38.119644,-122.360987,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1032,NB-1032,NA,NA,38.120084,-122.347272,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1033,NB-1033,NA,NA,38.120348,-122.335442,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1034,NB-1034,NA,NA,38.119213,-122.324311,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1035,NB-1035,NA,NA,38.10816,-122.450688,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1036,NB-1036,NA,NA,38.108812,-122.440283,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1037,NB-1037,NA,NA,38.109215,-122.427206,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1038,NB-1038,NA,NA,38.109606,-122.414204,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1039,NB-1039,NA,NA,38.109979,-122.401963,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1040,NB-1040,NA,NA,38.110368,-122.388992,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1041,NB-1041,NA,NA,38.110776,-122.375335,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1042,NB-1042,NA,NA,38.111209,-122.360762,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1043,NB-1043,NA,NA,38.111621,-122.346906,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1044,NB-1044,NA,NA,38.111972,-122.334816,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1045,NB-1045,NA,NA,38.112334,-122.322664,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1046,NB-1046,NA,NA,38.111892,-122.311669,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1047,NB-1047,NA,NA,38.100311,-122.451413,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1048,NB-1048,NA,NA,38.100615,-122.440265,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1049,NB-1049,NA,NA,38.100989,-122.427152,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1050,NB-1050,NA,NA,38.101349,-122.414144,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1051,NB-1051,NA,NA,38.101693,-122.401899,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1052,NB-1052,NA,NA,38.102051,-122.388943,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1053,NB-1053,NA,NA,38.102427,-122.375243,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1054,NB-1054,NA,NA,38.102829,-122.360542,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1055,NB-1055,NA,NA,38.103213,-122.346547,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1056,NB-1056,NA,NA,38.103541,-122.334266,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1057,NB-1057,NA,NA,38.103881,-122.321876,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1058,NB-1058,NA,NA,38.10403,-122.30661,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1059,NB-1059,NA,NA,38.091463,-122.46306,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1060,NB-1060,NA,NA,38.091999,-122.451382,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1061,NB-1061,NA,NA,38.092295,-122.440246,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1062,NB-1062,NA,NA,38.092658,-122.427093,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1063,NB-1063,NA,NA,38.093007,-122.414081,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1064,NB-1064,NA,NA,38.09334,-122.401832,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1065,NB-1065,NA,NA,38.093687,-122.388891,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1066,NB-1066,NA,NA,38.094052,-122.37515,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1067,NB-1067,NA,NA,38.094445,-122.360323,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1068,NB-1068,NA,NA,38.094821,-122.346187,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1069,NB-1069,NA,NA,38.095144,-122.33372,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1070,NB-1070,NA,NA,38.095478,-122.321093,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1071,NB-1071,NA,NA,38.095827,-122.308061,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1072,NB-1072,NA,NA,38.095896,-122.296207,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1073,NB-1073,NA,NA,38.081305,-122.475281,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1074,NB-1074,NA,NA,38.08248,-122.463804,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1075,NB-1075,NA,NA,38.082817,-122.451324,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1076,NB-1076,NA,NA,38.083114,-122.440218,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1077,NB-1077,NA,NA,38.083465,-122.427034,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1078,NB-1078,NA,NA,38.083812,-122.414035,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1079,NB-1079,NA,NA,38.084137,-122.401772,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1080,NB-1080,NA,NA,38.084478,-122.388844,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1081,NB-1081,NA,NA,38.084839,-122.375088,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1082,NB-1082,NA,NA,38.085229,-122.360209,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1083,NB-1083,NA,NA,38.0856,-122.346003,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1084,NB-1084,NA,NA,38.085924,-122.333466,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1085,NB-1085,NA,NA,38.086254,-122.320721,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1086,NB-1086,NA,NA,38.086589,-122.307618,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1087,NB-1087,NA,NA,38.086906,-122.295273,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1088,NB-1088,NA,NA,38.086218,-122.285756,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1089,NB-1089,NA,NA,38.071912,-122.478256,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1090,NB-1090,NA,NA,38.072451,-122.463693,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1091,NB-1091,NA,NA,38.072767,-122.451244,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1092,NB-1092,NA,NA,38.073049,-122.440163,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1093,NB-1093,NA,NA,38.073381,-122.426983,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1094,NB-1094,NA,NA,38.073709,-122.413985,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1095,NB-1095,NA,NA,38.074015,-122.401727,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1096,NB-1096,NA,NA,38.074339,-122.388797,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1097,NB-1097,NA,NA,38.07468,-122.375035,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1098,NB-1098,NA,NA,38.075049,-122.360148,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1099,NB-1099,NA,NA,38.075398,-122.345951,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-110,NB-110,NA,NA,38.307209,-122.280107,Napa River,North Bay,San Pablo Bay,SPB,Mainstem,"NAPA, NAPA RIVER",9415623
+NB-1100,NB-1100,NA,NA,38.075703,-122.333419,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1101,NB-1101,NA,NA,38.076014,-122.320677,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1102,NB-1102,NA,NA,38.076331,-122.307575,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1103,NB-1103,NA,NA,38.076629,-122.295229,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1104,NB-1104,NA,NA,38.07657,-122.280341,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1105,NB-1105,NA,NA,38.061389,-122.480892,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1106,NB-1106,NA,NA,38.061937,-122.463581,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1107,NB-1107,NA,NA,38.062225,-122.451163,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1108,NB-1108,NA,NA,38.062479,-122.44011,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1109,NB-1109,NA,NA,38.062781,-122.426933,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1110,NB-1110,NA,NA,38.063079,-122.413936,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1111,NB-1111,NA,NA,38.063357,-122.401682,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1112,NB-1112,NA,NA,38.063651,-122.38875,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1113,NB-1113,NA,NA,38.063961,-122.374984,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1114,NB-1114,NA,NA,38.064295,-122.360089,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1115,NB-1115,NA,NA,38.064612,-122.3459,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1116,NB-1116,NA,NA,38.064888,-122.333373,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1117,NB-1117,NA,NA,38.065171,-122.320635,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1118,NB-1118,NA,NA,38.065457,-122.307532,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1119,NB-1119,NA,NA,38.065727,-122.295185,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1120,NB-1120,NA,NA,38.066128,-122.279126,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1121,NB-1121,NA,NA,38.050261,-122.489999,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1122,NB-1122,NA,NA,38.05062,-122.477609,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1123,NB-1123,NA,NA,38.050927,-122.463461,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1124,NB-1124,NA,NA,38.051191,-122.451077,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1125,NB-1125,NA,NA,38.051426,-122.440052,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1126,NB-1126,NA,NA,38.051703,-122.42688,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1127,NB-1127,NA,NA,38.051978,-122.413883,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1128,NB-1128,NA,NA,38.052233,-122.401634,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1129,NB-1129,NA,NA,38.052503,-122.3887,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1130,NB-1130,NA,NA,38.052788,-122.374929,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1131,NB-1131,NA,NA,38.053096,-122.360026,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1132,NB-1132,NA,NA,38.053386,-122.345845,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1133,NB-1133,NA,NA,38.05364,-122.333323,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1134,NB-1134,NA,NA,38.053899,-122.320589,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1135,NB-1135,NA,NA,38.054161,-122.307486,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1136,NB-1136,NA,NA,38.054409,-122.295139,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1137,NB-1137,NA,NA,38.05473,-122.279834,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1138,NB-1138,NA,NA,38.039575,-122.490412,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1139,NB-1139,NA,NA,38.039981,-122.477507,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1140,NB-1140,NA,NA,38.040279,-122.463348,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1141,NB-1141,NA,NA,38.040536,-122.450995,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1142,NB-1142,NA,NA,38.040762,-122.439998,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1143,NB-1143,NA,NA,38.04103,-122.42683,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1144,NB-1144,NA,NA,38.041297,-122.413834,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1145,NB-1145,NA,NA,38.041544,-122.40159,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1146,NB-1146,NA,NA,38.041805,-122.388654,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1147,NB-1147,NA,NA,38.042081,-122.374878,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1148,NB-1148,NA,NA,38.042378,-122.359968,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1149,NB-1149,NA,NA,38.04266,-122.345794,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1150,NB-1150,NA,NA,38.042906,-122.333278,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1151,NB-1151,NA,NA,38.043156,-122.320547,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1152,NB-1152,NA,NA,38.04341,-122.307444,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1153,NB-1153,NA,NA,38.04365,-122.295096,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1154,NB-1154,NA,NA,38.043945,-122.280034,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1155,NB-1155,NA,NA,38.028612,-122.491119,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1156,NB-1156,NA,NA,38.028902,-122.477433,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1157,NB-1157,NA,NA,38.029216,-122.463242,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1158,NB-1158,NA,NA,38.029496,-122.45091,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1159,NB-1159,NA,NA,38.029738,-122.439942,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1160,NB-1160,NA,NA,38.030026,-122.426779,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1161,NB-1161,NA,NA,38.030314,-122.413783,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1162,NB-1162,NA,NA,38.03058,-122.401544,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1163,NB-1163,NA,NA,38.030861,-122.388607,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1164,NB-1164,NA,NA,38.031159,-122.374826,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1165,NB-1165,NA,NA,38.031479,-122.359908,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1166,NB-1166,NA,NA,38.031784,-122.345742,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1167,NB-1167,NA,NA,38.032049,-122.333231,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1168,NB-1168,NA,NA,38.032319,-122.320504,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1169,NB-1169,NA,NA,38.032593,-122.307402,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1170,NB-1170,NA,NA,38.032853,-122.295052,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1171,NB-1171,NA,NA,38.03301,-122.281787,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1172,NB-1172,NA,NA,38.017517,-122.490468,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1173,NB-1173,NA,NA,38.014544,-122.477169,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1174,NB-1174,NA,NA,38.018595,-122.463178,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1175,NB-1175,NA,NA,38.018862,-122.450817,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1176,NB-1176,NA,NA,38.019106,-122.439871,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1177,NB-1177,NA,NA,38.019395,-122.426731,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1178,NB-1178,NA,NA,38.019687,-122.413731,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1179,NB-1179,NA,NA,38.019961,-122.401483,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1180,NB-1180,NA,NA,38.020253,-122.388543,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1181,NB-1181,NA,NA,38.020559,-122.37476,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1182,NB-1182,NA,NA,38.017278,-122.359596,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1183,NB-1183,NA,NA,38.020912,-122.345688,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1184,NB-1184,NA,NA,38.021191,-122.333186,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1185,NB-1185,NA,NA,38.021478,-122.320447,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1186,NB-1186,NA,NA,38.018627,-122.307335,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1187,NB-1187,NA,NA,38.020373,-122.291701,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1188,NB-1188,NA,NA,38.00942,-122.463115,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1189,NB-1189,NA,NA,38.009555,-122.450743,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1190,NB-1190,NA,NA,38.009692,-122.439787,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1191,NB-1191,NA,NA,38.009859,-122.426671,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1192,NB-1192,NA,NA,38.010016,-122.413683,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1193,NB-1193,NA,NA,38.010169,-122.401409,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1194,NB-1194,NA,NA,38.010332,-122.388455,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"Pinole Point, San Pablo Bay",9415056
+NB-1195,NB-1195,NA,NA,38.01052,-122.37472,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1196,NB-1196,NA,NA,38.009634,-122.345364,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1197,NB-1197,NA,NA,38.008823,-122.333187,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1198,NB-1198,NA,NA,38.010859,-122.320997,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1199,NB-1199,NA,NA,38.001477,-122.461599,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-120,NB-120,NA,NA,38.302372,-122.280291,Napa River,North Bay,Napa River,NPR,Mainstem,"NAPA, NAPA RIVER",9415623
+NB-1200,NB-1200,NA,NA,38.000003,-122.450656,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1201,NB-1201,NA,NA,38.000054,-122.439725,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1202,NB-1202,NA,NA,38.000113,-122.426596,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1203,NB-1203,NA,NA,38.000182,-122.41361,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1204,NB-1204,NA,NA,38.000244,-122.401381,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1205,NB-1205,NA,NA,38.000302,-122.388441,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1206,NB-1206,NA,NA,38.000251,-122.372704,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1207,NB-1207,NA,NA,37.991236,-122.449394,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1208,NB-1208,NA,NA,37.990677,-122.439632,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1209,NB-1209,NA,NA,37.990753,-122.426493,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1210,NB-1210,NA,NA,37.990837,-122.413467,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1211,NB-1211,NA,NA,37.990913,-122.401314,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1212,NB-1212,NA,NA,37.990988,-122.388468,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1213,NB-1213,NA,NA,37.991095,-122.371066,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1214,NB-1214,NA,NA,37.980817,-122.468239,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1215,NB-1215,NA,NA,37.981123,-122.452825,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1216,NB-1216,NA,NA,37.981957,-122.439557,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1217,NB-1217,NA,NA,37.981991,-122.426427,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1218,NB-1218,NA,NA,37.982019,-122.413353,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1219,NB-1219,NA,NA,37.982049,-122.40123,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1220,NB-1220,NA,NA,37.982077,-122.388463,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1221,NB-1221,NA,NA,37.982318,-122.372735,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1222,NB-1222,NA,NA,37.971313,-122.477466,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1223,NB-1223,NA,NA,37.971779,-122.453739,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1224,NB-1224,NA,NA,37.971749,-122.439503,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1225,NB-1225,NA,NA,37.971708,-122.426371,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1226,NB-1226,NA,NA,37.971668,-122.413268,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1227,NB-1227,NA,NA,37.971736,-122.40125,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1228,NB-1228,NA,NA,37.973692,-122.389103,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1229,NB-1229,NA,NA,37.961065,-122.486625,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1230,NB-1230,NA,NA,37.960945,-122.471635,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1231,NB-1231,NA,NA,37.960985,-122.453823,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1232,NB-1232,NA,NA,37.960979,-122.439462,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1233,NB-1233,NA,NA,37.960944,-122.427518,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1234,NB-1234,NA,NA,37.951078,-122.485031,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1235,NB-1235,NA,NA,37.950795,-122.471813,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1236,NB-1236,NA,NA,37.950863,-122.45388,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1237,NB-1237,NA,NA,37.950926,-122.439391,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1238,NB-1238,NA,NA,37.951001,-122.426567,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+NB-1239,NB-1239,NA,NA,37.941471,-122.471878,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1240,NB-1240,NA,NA,37.941625,-122.453946,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1241,NB-1241,NA,NA,37.941729,-122.439344,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1242,NB-1242,NA,NA,37.941812,-122.426208,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1243,NB-1243,NA,NA,37.941731,-122.415045,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1244,NB-1244,NA,NA,37.932959,-122.493156,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1245,NB-1245,NA,NA,37.933074,-122.4722,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1246,NB-1246,NA,NA,37.933211,-122.453992,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1247,NB-1247,NA,NA,37.933325,-122.439289,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1248,NB-1248,NA,NA,37.933451,-122.426116,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1249,NB-1249,NA,NA,37.933151,-122.41357,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1250,NB-1250,NA,NA,37.924297,-122.492888,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1251,NB-1251,NA,NA,37.92364,-122.472426,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1252,NB-1252,NA,NA,37.923801,-122.454066,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1253,NB-1253,NA,NA,37.923942,-122.439246,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1254,NB-1254,NA,NA,37.924034,-122.426084,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1255,NB-1255,NA,NA,37.924168,-122.412882,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1256,NB-1256,NA,NA,37.924243,-122.400748,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1257,NB-1257,NA,NA,37.913354,-122.471103,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1258,NB-1258,NA,NA,37.913328,-122.454131,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1259,NB-1259,NA,NA,37.913527,-122.439187,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1260,NB-1260,NA,NA,37.913691,-122.426042,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1261,NB-1261,NA,NA,37.913856,-122.412794,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1262,NB-1262,NA,NA,37.91401,-122.400627,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1263,NB-1263,NA,NA,37.914333,-122.390964,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1264,NB-1264,NA,NA,37.90364,-122.469246,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1265,NB-1265,NA,NA,37.90327,-122.454185,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1266,NB-1266,NA,NA,37.903444,-122.439127,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1267,NB-1267,NA,NA,37.903594,-122.425978,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1268,NB-1268,NA,NA,37.90374,-122.412706,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1269,NB-1269,NA,NA,37.903877,-122.400532,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1270,NB-1270,NA,NA,37.903976,-122.388049,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1271,NB-1271,NA,NA,37.903737,-122.375469,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1272,NB-1272,NA,NA,37.910629,-122.364892,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1273,NB-1273,NA,NA,37.906479,-122.348797,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1274,NB-1274,NA,NA,37.905457,-122.329726,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1275,NB-1275,NA,NA,37.8948,-122.454205,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1276,NB-1276,NA,NA,37.893714,-122.439077,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1277,NB-1277,NA,NA,37.893832,-122.425927,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1278,NB-1278,NA,NA,37.89395,-122.412629,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1279,NB-1279,NA,NA,37.894059,-122.400447,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1280,NB-1280,NA,NA,37.894168,-122.387974,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1281,NB-1281,NA,NA,37.894275,-122.375174,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1282,NB-1282,NA,NA,37.894245,-122.362668,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1283,NB-1283,NA,NA,37.894418,-122.348024,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1284,NB-1284,NA,NA,37.894539,-122.325794,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1285,NB-1285,NA,NA,37.88343,-122.438446,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1286,NB-1286,NA,NA,37.883394,-122.425859,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1287,NB-1287,NA,NA,37.883454,-122.412536,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1288,NB-1288,NA,NA,37.883512,-122.400348,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1289,NB-1289,NA,NA,37.88357,-122.387909,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1290,NB-1290,NA,NA,37.883622,-122.375109,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1291,NB-1291,NA,NA,37.883677,-122.362369,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1292,NB-1292,NA,NA,37.883735,-122.34817,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1293,NB-1293,NA,NA,37.883577,-122.326247,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1294,NB-1294,NA,NA,37.871509,-122.453589,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1295,NB-1295,NA,NA,37.873133,-122.438934,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1296,NB-1296,NA,NA,37.87354,-122.425465,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1297,NB-1297,NA,NA,37.873182,-122.412486,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1298,NB-1298,NA,NA,37.873205,-122.400295,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1299,NB-1299,NA,NA,37.873227,-122.387845,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-130,NB-130,NA,NA,38.29779,-122.28174,Napa River,North Bay,Napa River,NPR,Mainstem,"NAPA, NAPA RIVER",9415623
+NB-1300,NB-1300,NA,NA,37.873256,-122.375077,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1301,NB-1301,NA,NA,37.873312,-122.362311,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1302,NB-1302,NA,NA,37.873298,-122.348104,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1303,NB-1303,NA,NA,37.873463,-122.324857,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1304,NB-1304,NA,NA,37.863464,-122.453641,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1305,NB-1305,NA,NA,37.865257,-122.442183,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1306,NB-1306,NA,NA,37.863725,-122.412428,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1307,NB-1307,NA,NA,37.863767,-122.40028,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1308,NB-1308,NA,NA,37.863809,-122.38779,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1309,NB-1309,NA,NA,37.863859,-122.375027,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1310,NB-1310,NA,NA,37.863899,-122.36232,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1311,NB-1311,NA,NA,37.863945,-122.348079,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1312,NB-1312,NA,NA,37.864087,-122.326858,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1313,NB-1313,NA,NA,37.853642,-122.471214,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1314,NB-1314,NA,NA,37.853752,-122.453888,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1315,NB-1315,NA,NA,37.85306,-122.439121,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1316,NB-1316,NA,NA,37.851917,-122.425838,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1317,NB-1317,NA,NA,37.853914,-122.412368,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1318,NB-1318,NA,NA,37.853953,-122.400267,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1319,NB-1319,NA,NA,37.853993,-122.387736,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1320,NB-1320,NA,NA,37.854041,-122.374978,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1321,NB-1321,NA,NA,37.854083,-122.362319,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1322,NB-1322,NA,NA,37.854133,-122.348058,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1323,NB-1323,NA,NA,37.854174,-122.320434,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"ANGEL ISLAND, EAST GARRISON, S.F. Bay",9414818
+NB-1324,NB-1324,NA,NA,37.843605,-122.470672,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1325,NB-1325,NA,NA,37.843473,-122.453811,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1326,NB-1326,NA,NA,37.843533,-122.438615,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1327,NB-1327,NA,NA,37.843583,-122.425471,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1328,NB-1328,NA,NA,37.843635,-122.41231,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1329,NB-1329,NA,NA,37.843674,-122.400253,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1330,NB-1330,NA,NA,37.843714,-122.387679,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1331,NB-1331,NA,NA,37.843763,-122.374927,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1332,NB-1332,NA,NA,37.843792,-122.362313,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1333,NB-1333,NA,NA,37.843844,-122.348036,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1334,NB-1334,NA,NA,37.843945,-122.319532,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1335,NB-1335,NA,NA,37.832772,-122.470308,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1336,NB-1336,NA,NA,37.833119,-122.453761,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1337,NB-1337,NA,NA,37.833144,-122.438559,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1338,NB-1338,NA,NA,37.833179,-122.425416,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1339,NB-1339,NA,NA,37.833188,-122.412269,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1340,NB-1340,NA,NA,37.833207,-122.40025,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1341,NB-1341,NA,NA,37.833231,-122.387658,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1342,NB-1342,NA,NA,37.833869,-122.375176,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1343,NB-1343,NA,NA,37.833343,-122.362212,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1344,NB-1344,NA,NA,37.833299,-122.348031,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1345,NB-1345,NA,NA,37.833324,-122.33327,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1346,NB-1346,NA,NA,37.833078,-122.311549,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1347,NB-1347,NA,NA,37.82175,-122.520822,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1348,NB-1348,NA,NA,37.821573,-122.509581,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1349,NB-1349,NA,NA,37.821135,-122.497709,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1350,NB-1350,NA,NA,37.8226,-122.485768,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1351,NB-1351,NA,NA,37.823233,-122.470951,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1352,NB-1352,NA,NA,37.823249,-122.453746,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1353,NB-1353,NA,NA,37.823255,-122.438551,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1354,NB-1354,NA,NA,37.823151,-122.425508,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1355,NB-1355,NA,NA,37.823263,-122.412284,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1356,NB-1356,NA,NA,37.823265,-122.400261,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1357,NB-1357,NA,NA,37.82327,-122.387659,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1358,NB-1358,NA,NA,37.822733,-122.377957,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1359,NB-1359,NA,NA,37.823416,-122.360642,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1360,NB-1360,NA,NA,37.823357,-122.348135,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1361,NB-1361,NA,NA,37.824165,-122.333476,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1362,NB-1362,NA,NA,37.82934,-122.310392,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1363,NB-1363,NA,NA,37.810509,-122.544306,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1364,NB-1364,NA,NA,37.811954,-122.533466,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1365,NB-1365,NA,NA,37.813861,-122.521284,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1366,NB-1366,NA,NA,37.813865,-122.509292,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1367,NB-1367,NA,NA,37.813868,-122.498227,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1368,NB-1368,NA,NA,37.813873,-122.485722,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1369,NB-1369,NA,NA,37.813922,-122.470896,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1370,NB-1370,NA,NA,37.813882,-122.453725,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1371,NB-1371,NA,NA,37.813888,-122.43854,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1372,NB-1372,NA,NA,37.813928,-122.425474,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1373,NB-1373,NA,NA,37.814015,-122.412249,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1374,NB-1374,NA,NA,37.813902,-122.400262,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1375,NB-1375,NA,NA,37.813903,-122.387656,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1376,NB-1376,NA,NA,37.813872,-122.376342,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1377,NB-1377,NA,NA,37.814402,-122.362781,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1378,NB-1378,NA,NA,37.801274,-122.577456,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1379,NB-1379,NA,NA,37.802746,-122.566673,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1380,NB-1380,NA,NA,37.80415,-122.555949,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1381,NB-1381,NA,NA,37.804476,-122.545255,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1382,NB-1382,NA,NA,37.804476,-122.533777,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1383,NB-1383,NA,NA,37.804476,-122.521285,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1384,NB-1384,NA,NA,37.804476,-122.509292,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1385,NB-1385,NA,NA,37.804476,-122.498228,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1386,NB-1386,NA,NA,37.804535,-122.485849,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1387,NB-1387,NA,NA,37.807155,-122.466239,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1388,NB-1388,NA,NA,37.807239,-122.454485,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1389,NB-1389,NA,NA,37.883322,-122.485802,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1390,NB-1390,NA,NA,37.873867,-122.501156,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1391,NB-1391,NA,NA,37.873298,-122.485803,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1392,NB-1392,NA,NA,37.864114,-122.485301,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1393,NB-1393,NA,NA,37.863564,-122.47122,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1394,NB-1394,NA,NA,37.814434,-122.347963,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1395,NB-1395,NA,NA,37.815413,-122.333298,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1396,NB-1396,NA,NA,37.816618,-122.31872,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1397,NB-1397,NA,NA,37.805032,-122.39915,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1398,NB-1398,NA,NA,37.804376,-122.387649,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1399,NB-1399,NA,NA,37.804347,-122.374915,Central San Francisco Bay,Central Bay,Central Bay,CBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-140,NB-140,NA,NA,38.290233,-122.282519,Napa River,North Bay,Napa River,NPR,Mainstem,"NAPA, NAPA RIVER",9415623
+NB-1400,NB-1400,NA,NA,37.804228,-122.362164,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1401,NB-1401,NA,NA,37.804513,-122.348166,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1402,NB-1402,NA,NA,37.803108,-122.332968,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1403,NB-1403,NA,NA,37.795104,-122.387138,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1404,NB-1404,NA,NA,37.794872,-122.374873,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1405,NB-1405,NA,NA,37.794876,-122.362322,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1406,NB-1406,NA,NA,37.794876,-122.348045,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1407,NB-1407,NA,NA,37.795029,-122.334079,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1408,NB-1408,NA,NA,37.785991,-122.384133,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1409,NB-1409,NA,NA,37.786024,-122.374877,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1410,NB-1410,NA,NA,37.786025,-122.362322,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1411,NB-1411,NA,NA,37.786024,-122.348045,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1412,NB-1412,NA,NA,37.786087,-122.335758,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1413,NB-1413,NA,NA,37.776789,-122.3877,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1414,NB-1414,NA,NA,37.777244,-122.374875,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1415,NB-1415,NA,NA,37.777244,-122.362322,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1416,NB-1416,NA,NA,37.777244,-122.348045,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1417,NB-1417,NA,NA,37.777191,-122.3333,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1418,NB-1418,NA,NA,37.776529,-122.320881,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1419,NB-1419,NA,NA,37.776215,-122.308604,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1420,NB-1420,NA,NA,37.767831,-122.383829,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1421,NB-1421,NA,NA,37.76783,-122.374861,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1422,NB-1422,NA,NA,37.767822,-122.362322,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1423,NB-1423,NA,NA,37.767821,-122.348045,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1424,NB-1424,NA,NA,37.767821,-122.333242,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1425,NB-1425,NA,NA,37.767822,-122.320589,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1426,NB-1426,NA,NA,37.767806,-122.30911,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1427,NB-1427,NA,NA,37.767368,-122.298143,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1428,NB-1428,NA,NA,37.758183,-122.374739,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1429,NB-1429,NA,NA,37.758256,-122.362322,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1430,NB-1430,NA,NA,37.758256,-122.348045,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1431,NB-1431,NA,NA,37.758256,-122.333238,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1432,NB-1432,NA,NA,37.758256,-122.320586,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1433,NB-1433,NA,NA,37.758256,-122.309093,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1434,NB-1434,NA,NA,37.758256,-122.298032,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1435,NB-1435,NA,NA,37.758256,-122.286796,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1436,NB-1436,NA,NA,37.758097,-122.27427,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1437,NB-1437,NA,NA,37.749104,-122.374048,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1438,NB-1438,NA,NA,37.748834,-122.362322,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1439,NB-1439,NA,NA,37.748833,-122.348045,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1440,NB-1440,NA,NA,37.748833,-122.333233,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1441,NB-1441,NA,NA,37.748834,-122.320583,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1442,NB-1442,NA,NA,37.748833,-122.309093,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1443,NB-1443,NA,NA,37.748834,-122.298033,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1444,NB-1444,NA,NA,37.748833,-122.286797,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1445,NB-1445,NA,NA,37.748833,-122.274064,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1446,NB-1446,NA,NA,37.74897,-122.260709,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1447,NB-1447,NA,NA,37.739468,-122.365157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1448,NB-1448,NA,NA,37.739624,-122.348045,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1449,NB-1449,NA,NA,37.739624,-122.333229,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1450,NB-1450,NA,NA,37.739624,-122.32058,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1451,NB-1451,NA,NA,37.739624,-122.309093,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1452,NB-1452,NA,NA,37.739624,-122.298035,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1453,NB-1453,NA,NA,37.739624,-122.286799,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1454,NB-1454,NA,NA,37.739624,-122.274063,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1455,NB-1455,NA,NA,37.739349,-122.262181,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1456,NB-1456,NA,NA,37.73161,-122.364391,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1457,NB-1457,NA,NA,37.730626,-122.348048,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1458,NB-1458,NA,NA,37.730635,-122.333227,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1459,NB-1459,NA,NA,37.730642,-122.320579,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1460,NB-1460,NA,NA,37.730649,-122.309096,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1461,NB-1461,NA,NA,37.730656,-122.298039,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1462,NB-1462,NA,NA,37.730662,-122.286803,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1463,NB-1463,NA,NA,37.730669,-122.274064,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1464,NB-1464,NA,NA,37.730656,-122.260564,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1465,NB-1465,NA,NA,37.720186,-122.376806,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1466,NB-1466,NA,NA,37.721383,-122.359915,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1467,NB-1467,NA,NA,37.721393,-122.348056,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1468,NB-1468,NA,NA,37.721401,-122.333231,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1469,NB-1469,NA,NA,37.721408,-122.320585,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1470,NB-1470,NA,NA,37.721415,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1471,NB-1471,NA,NA,37.721421,-122.298049,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1472,NB-1472,NA,NA,37.721427,-122.286813,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1473,NB-1473,NA,NA,37.721435,-122.27407,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1474,NB-1474,NA,NA,37.721443,-122.260538,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1475,NB-1475,NA,NA,37.720758,-122.249013,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1476,NB-1476,NA,NA,#N/A,#N/A,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1477,NB-1477,NA,NA,37.70831,-122.387503,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1478,NB-1478,NA,NA,37.711438,-122.374354,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1479,NB-1479,NA,NA,37.711553,-122.362326,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1480,NB-1480,NA,NA,37.711592,-122.348057,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1481,NB-1481,NA,NA,37.711592,-122.333227,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1482,NB-1482,NA,NA,37.711592,-122.320583,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1483,NB-1483,NA,NA,37.711592,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1484,NB-1484,NA,NA,37.711592,-122.298052,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1485,NB-1485,NA,NA,37.711592,-122.286816,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1486,NB-1486,NA,NA,37.711592,-122.274069,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1487,NB-1487,NA,NA,37.711592,-122.260537,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1488,NB-1488,NA,NA,37.711592,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1489,NB-1489,NA,NA,37.710896,-122.235861,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1490,NB-1490,NA,NA,37.702438,-122.387161,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1491,NB-1491,NA,NA,37.702424,-122.374867,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1492,NB-1492,NA,NA,37.702424,-122.362334,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1493,NB-1493,NA,NA,37.702424,-122.348057,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1494,NB-1494,NA,NA,37.702424,-122.333223,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1495,NB-1495,NA,NA,37.702424,-122.32058,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1496,NB-1496,NA,NA,37.702424,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1497,NB-1497,NA,NA,37.702424,-122.298053,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1498,NB-1498,NA,NA,37.702424,-122.286817,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1499,NB-1499,NA,NA,37.702424,-122.274068,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-150,NB-150,NA,NA,38.283303,-122.284682,Napa River,North Bay,Napa River,NPR,Mainstem,"NAPA, NAPA RIVER",9415623
+NB-1500,NB-1500,NA,NA,37.702424,-122.260535,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1501,NB-1501,NA,NA,37.702424,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1502,NB-1502,NA,NA,37.702424,-122.236157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1503,NB-1503,NA,NA,37.702051,-122.224583,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1504,NB-1504,NA,NA,37.702035,-122.211758,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1505,NB-1505,NA,NA,37.702143,-122.201697,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1506,NB-1506,NA,NA,37.693745,-122.386366,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1507,NB-1507,NA,NA,37.693667,-122.374864,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1508,NB-1508,NA,NA,37.693667,-122.362334,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1509,NB-1509,NA,NA,37.693667,-122.348057,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1510,NB-1510,NA,NA,37.693667,-122.333219,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1511,NB-1511,NA,NA,37.693667,-122.320577,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1512,NB-1512,NA,NA,37.693667,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1513,NB-1513,NA,NA,37.693667,-122.298055,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1514,NB-1514,NA,NA,37.693667,-122.286819,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1515,NB-1515,NA,NA,37.693667,-122.274066,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1516,NB-1516,NA,NA,37.693667,-122.260534,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1517,NB-1517,NA,NA,37.693667,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1518,NB-1518,NA,NA,37.693667,-122.236157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1519,NB-1519,NA,NA,37.693667,-122.22407,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1520,NB-1520,NA,NA,37.693667,-122.212856,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1521,NB-1521,NA,NA,37.693667,-122.20134,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1522,NB-1522,NA,NA,37.684532,-122.385352,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1523,NB-1523,NA,NA,37.684435,-122.374862,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1524,NB-1524,NA,NA,37.684435,-122.362335,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1525,NB-1525,NA,NA,37.684435,-122.348057,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1526,NB-1526,NA,NA,37.684435,-122.333214,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1527,NB-1527,NA,NA,37.684435,-122.320574,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1528,NB-1528,NA,NA,37.684435,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1529,NB-1529,NA,NA,37.684435,-122.298056,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1530,NB-1530,NA,NA,37.684435,-122.28682,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1531,NB-1531,NA,NA,37.684435,-122.274065,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1532,NB-1532,NA,NA,37.684435,-122.260532,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1533,NB-1533,NA,NA,37.684435,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1534,NB-1534,NA,NA,37.684435,-122.236157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1535,NB-1535,NA,NA,37.684435,-122.22407,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1536,NB-1536,NA,NA,37.684435,-122.212856,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1537,NB-1537,NA,NA,37.684435,-122.20134,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1538,NB-1538,NA,NA,37.684435,-122.189918,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1539,NB-1539,NA,NA,37.683849,-122.179884,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1540,NB-1540,NA,NA,37.675393,-122.374857,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1541,NB-1541,NA,NA,37.675393,-122.362335,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1542,NB-1542,NA,NA,37.675393,-122.348057,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1543,NB-1543,NA,NA,37.675393,-122.33321,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1544,NB-1544,NA,NA,37.675393,-122.320571,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1545,NB-1545,NA,NA,37.675393,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1546,NB-1546,NA,NA,37.675393,-122.298058,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1547,NB-1547,NA,NA,37.675393,-122.286822,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1548,NB-1548,NA,NA,37.675393,-122.274063,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1549,NB-1549,NA,NA,37.675393,-122.260531,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1550,NB-1550,NA,NA,37.675393,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1551,NB-1551,NA,NA,37.675393,-122.236157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1552,NB-1552,NA,NA,37.675393,-122.22407,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1553,NB-1553,NA,NA,37.675393,-122.212856,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1554,NB-1554,NA,NA,37.675393,-122.20134,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1555,NB-1555,NA,NA,37.675393,-122.189918,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1556,NB-1556,NA,NA,37.675393,-122.178796,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1557,NB-1557,NA,NA,37.674774,-122.169024,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1558,NB-1558,NA,NA,37.666343,-122.374714,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1559,NB-1559,NA,NA,37.666161,-122.362335,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1560,NB-1560,NA,NA,37.666161,-122.348057,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1561,NB-1561,NA,NA,37.666161,-122.333206,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1562,NB-1562,NA,NA,37.666161,-122.320568,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1563,NB-1563,NA,NA,37.666161,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1564,NB-1564,NA,NA,37.666161,-122.29806,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1565,NB-1565,NA,NA,37.666161,-122.286824,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1566,NB-1566,NA,NA,37.666161,-122.274061,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1567,NB-1567,NA,NA,37.666161,-122.260529,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1568,NB-1568,NA,NA,37.666161,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1569,NB-1569,NA,NA,37.666161,-122.236157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1570,NB-1570,NA,NA,37.666161,-122.22407,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1571,NB-1571,NA,NA,37.666161,-122.212856,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1572,NB-1572,NA,NA,37.666161,-122.20134,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1573,NB-1573,NA,NA,37.666161,-122.189918,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1574,NB-1574,NA,NA,37.66616,-122.178793,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1575,NB-1575,NA,NA,37.666063,-122.166849,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1576,NB-1576,NA,NA,37.65729,-122.37386,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1577,NB-1577,NA,NA,37.657214,-122.362335,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1578,NB-1578,NA,NA,37.657214,-122.348057,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1579,NB-1579,NA,NA,37.657214,-122.333201,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1580,NB-1580,NA,NA,37.657214,-122.320565,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1581,NB-1581,NA,NA,37.657214,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1582,NB-1582,NA,NA,37.657214,-122.298061,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1583,NB-1583,NA,NA,37.657214,-122.286825,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1584,NB-1584,NA,NA,37.657214,-122.27406,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1585,NB-1585,NA,NA,37.657214,-122.260527,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1586,NB-1586,NA,NA,37.657214,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1587,NB-1587,NA,NA,37.657214,-122.236157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1588,NB-1588,NA,NA,37.657214,-122.22407,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1589,NB-1589,NA,NA,37.657214,-122.212856,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1590,NB-1590,NA,NA,37.657214,-122.20134,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1591,NB-1591,NA,NA,37.657214,-122.189918,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1592,NB-1592,NA,NA,37.657214,-122.178789,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1593,NB-1593,NA,NA,37.657214,-122.167715,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1594,NB-1594,NA,NA,37.656879,-122.159901,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1595,NB-1595,NA,NA,37.648365,-122.379505,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1596,NB-1596,NA,NA,37.648815,-122.362335,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1597,NB-1597,NA,NA,37.648814,-122.348057,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1598,NB-1598,NA,NA,37.648814,-122.333197,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1599,NB-1599,NA,NA,37.648815,-122.320562,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-160,NB-160,NA,NA,38.275603,-122.283789,Napa River,North Bay,Napa River,NPR,Mainstem,"NAPA, NAPA RIVER",9415623
+NB-1600,NB-1600,NA,NA,37.648814,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1601,NB-1601,NA,NA,37.648815,-122.298063,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1602,NB-1602,NA,NA,37.648814,-122.286827,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1603,NB-1603,NA,NA,37.648814,-122.274058,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1604,NB-1604,NA,NA,37.648815,-122.260526,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1605,NB-1605,NA,NA,37.648814,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1606,NB-1606,NA,NA,37.648814,-122.236157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1607,NB-1607,NA,NA,37.648814,-122.22407,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1608,NB-1608,NA,NA,37.648814,-122.212856,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1609,NB-1609,NA,NA,37.648814,-122.20134,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-161,NB-161,NA,NA,38.276899,-122.286383,Napa River,North Bay,Napa River,NPR,Marina,"NAPA, NAPA RIVER",9415623
+NB-1610,NB-1610,NA,NA,37.648814,-122.189918,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1611,NB-1611,NA,NA,37.648814,-122.178786,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1612,NB-1612,NA,NA,37.648815,-122.167712,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1613,NB-1613,NA,NA,37.648791,-122.158793,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1614,NB-1614,NA,NA,37.640897,-122.385737,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1615,NB-1615,NA,NA,37.640201,-122.37485,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1616,NB-1616,NA,NA,37.640201,-122.362335,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1617,NB-1617,NA,NA,37.640201,-122.348057,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1618,NB-1618,NA,NA,37.640201,-122.333193,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1619,NB-1619,NA,NA,37.640201,-122.32056,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1620,NB-1620,NA,NA,37.640201,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1621,NB-1621,NA,NA,37.640201,-122.298064,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1622,NB-1622,NA,NA,37.640201,-122.286828,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1623,NB-1623,NA,NA,37.640201,-122.274057,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1624,NB-1624,NA,NA,37.640201,-122.260524,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1625,NB-1625,NA,NA,37.640201,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1626,NB-1626,NA,NA,37.640201,-122.236157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1627,NB-1627,NA,NA,37.640201,-122.22407,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1628,NB-1628,NA,NA,37.640201,-122.212856,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1629,NB-1629,NA,NA,37.640201,-122.20134,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-163,NB-163,,,38.27873,-122.28568,Napa River,North Bay,Marina,NMR,Slough,,
+NB-1630,NB-1630,NA,NA,37.640201,-122.189918,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1631,NB-1631,NA,NA,37.640201,-122.178783,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1632,NB-1632,NA,NA,37.640201,-122.167709,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1633,NB-1633,NA,NA,37.640119,-122.157944,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1634,NB-1634,NA,NA,37.631919,-122.378347,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1635,NB-1635,NA,NA,37.631374,-122.362218,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1636,NB-1636,NA,NA,37.631278,-122.348057,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1637,NB-1637,NA,NA,37.631278,-122.333189,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1638,NB-1638,NA,NA,37.631278,-122.320557,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1639,NB-1639,NA,NA,37.631278,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1640,NB-1640,NA,NA,37.631278,-122.298066,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1641,NB-1641,NA,NA,37.631278,-122.28683,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1642,NB-1642,NA,NA,37.631278,-122.274055,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1643,NB-1643,NA,NA,37.631278,-122.260523,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1644,NB-1644,NA,NA,37.631278,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1645,NB-1645,NA,NA,37.631278,-122.236157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1646,NB-1646,NA,NA,37.631278,-122.22407,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1647,NB-1647,NA,NA,37.631278,-122.212856,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1648,NB-1648,NA,NA,37.631278,-122.20134,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1649,NB-1649,NA,NA,37.631278,-122.189918,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1650,NB-1650,NA,NA,37.631278,-122.17878,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1651,NB-1651,NA,NA,37.631278,-122.167706,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1652,NB-1652,NA,NA,37.631196,-122.156934,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1653,NB-1653,NA,NA,37.622337,-122.361615,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1654,NB-1654,NA,NA,37.622236,-122.348058,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1655,NB-1655,NA,NA,37.622236,-122.333185,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1656,NB-1656,NA,NA,37.622236,-122.320554,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1657,NB-1657,NA,NA,37.622236,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1658,NB-1658,NA,NA,37.622236,-122.298067,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1659,NB-1659,NA,NA,37.622236,-122.286831,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1660,NB-1660,NA,NA,37.622236,-122.274053,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1661,NB-1661,NA,NA,37.622236,-122.260521,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1662,NB-1662,NA,NA,37.622236,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1663,NB-1663,NA,NA,37.622236,-122.236157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1664,NB-1664,NA,NA,37.622236,-122.22407,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1665,NB-1665,NA,NA,37.622236,-122.212856,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1666,NB-1666,NA,NA,37.622236,-122.20134,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1667,NB-1667,NA,NA,37.622236,-122.189918,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1668,NB-1668,NA,NA,37.622236,-122.178777,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1669,NB-1669,NA,NA,37.622236,-122.167703,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1670,NB-1670,NA,NA,37.622271,-122.156601,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1671,NB-1671,NA,NA,37.611264,-122.36688,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1672,NB-1672,NA,NA,37.613203,-122.34803,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1673,NB-1673,NA,NA,37.613216,-122.333181,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1674,NB-1674,NA,NA,37.613223,-122.320552,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1675,NB-1675,NA,NA,37.613228,-122.309106,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1676,NB-1676,NA,NA,37.613234,-122.298069,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1677,NB-1677,NA,NA,37.613239,-122.286834,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1678,NB-1678,NA,NA,37.613245,-122.274053,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1679,NB-1679,NA,NA,37.613252,-122.26052,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1680,NB-1680,NA,NA,37.613258,-122.248204,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1681,NB-1681,NA,NA,37.613264,-122.236158,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1682,NB-1682,NA,NA,37.61327,-122.22407,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1683,NB-1683,NA,NA,37.613275,-122.212857,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1684,NB-1684,NA,NA,37.613281,-122.20134,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1685,NB-1685,NA,NA,37.613286,-122.189919,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1686,NB-1686,NA,NA,37.613291,-122.178773,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1687,NB-1687,NA,NA,37.613297,-122.1677,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1688,NB-1688,NA,NA,37.613145,-122.155323,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1689,NB-1689,NA,NA,37.605679,-122.373087,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1690,NB-1690,NA,NA,37.603774,-122.36222,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1691,NB-1691,NA,NA,37.603695,-122.348057,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1692,NB-1692,NA,NA,37.603702,-122.333175,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1693,NB-1693,NA,NA,37.603708,-122.320547,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1694,NB-1694,NA,NA,37.603713,-122.309105,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1695,NB-1695,NA,NA,37.603719,-122.29807,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1696,NB-1696,NA,NA,37.603724,-122.286834,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1697,NB-1697,NA,NA,37.60373,-122.274049,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1698,NB-1698,NA,NA,37.603737,-122.260517,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1699,NB-1699,NA,NA,37.603743,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-170,NB-170,NA,NA,38.267532,-122.285536,Napa River,North Bay,Napa River,NPR,Mainstem,"NAPA, NAPA RIVER",9415623
+NB-1700,NB-1700,NA,NA,37.603749,-122.236157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1701,NB-1701,NA,NA,37.603754,-122.224069,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1702,NB-1702,NA,NA,37.60376,-122.212856,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1703,NB-1703,NA,NA,37.603766,-122.201339,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1704,NB-1704,NA,NA,37.603771,-122.189918,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1705,NB-1705,NA,NA,37.603776,-122.178769,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1706,NB-1706,NA,NA,37.603782,-122.167696,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1707,NB-1707,NA,NA,37.603787,-122.156336,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1708,NB-1708,NA,NA,37.603652,-122.148164,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1709,NB-1709,NA,NA,37.595522,-122.360276,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1710,NB-1710,NA,NA,37.595387,-122.348071,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1711,NB-1711,NA,NA,37.594362,-122.332927,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1712,NB-1712,NA,NA,37.594652,-122.320631,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1713,NB-1713,NA,NA,37.594173,-122.309085,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1714,NB-1714,NA,NA,37.594158,-122.298072,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1715,NB-1715,NA,NA,37.594158,-122.286836,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1716,NB-1716,NA,NA,37.594158,-122.274048,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1717,NB-1717,NA,NA,37.594158,-122.260516,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1718,NB-1718,NA,NA,37.594158,-122.248203,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1719,NB-1719,NA,NA,37.594158,-122.236157,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1720,NB-1720,NA,NA,37.594159,-122.22407,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1721,NB-1721,NA,NA,37.594158,-122.212856,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1722,NB-1722,NA,NA,37.594158,-122.20134,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1723,NB-1723,NA,NA,37.594158,-122.189918,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1724,NB-1724,NA,NA,37.594158,-122.178767,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1725,NB-1725,NA,NA,37.594158,-122.167692,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1726,NB-1726,NA,NA,37.594158,-122.156335,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1727,NB-1727,NA,NA,37.594232,-122.148519,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1728,NB-1728,NA,NA,37.584454,-122.309431,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1729,NB-1729,NA,NA,37.584284,-122.298067,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1730,NB-1730,NA,NA,37.584284,-122.286837,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1731,NB-1731,NA,NA,37.584278,-122.274054,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1732,NB-1732,NA,NA,37.584279,-122.260516,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1733,NB-1733,NA,NA,37.584284,-122.248198,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1734,NB-1734,NA,NA,37.584284,-122.236158,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1735,NB-1735,NA,NA,37.584283,-122.224076,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1736,NB-1736,NA,NA,37.584283,-122.212857,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1737,NB-1737,NA,NA,37.584283,-122.201335,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1738,NB-1738,NA,NA,37.584284,-122.189915,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1739,NB-1739,NA,NA,37.584284,-122.178764,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1740,NB-1740,NA,NA,37.584284,-122.16769,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1741,NB-1741,NA,NA,37.584283,-122.156335,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1742,NB-1742,NA,NA,37.583856,-122.14624,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1743,NB-1743,NA,NA,37.577051,-122.306259,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1744,NB-1744,NA,NA,37.559975,-122.290111,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1745,NB-1745,NA,NA,37.576009,-122.287004,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1746,NB-1746,NA,NA,37.574858,-122.273915,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1747,NB-1747,NA,NA,37.574875,-122.260148,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1748,NB-1748,NA,NA,37.574409,-122.248186,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1749,NB-1749,NA,NA,37.57441,-122.23616,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1750,NB-1750,NA,NA,37.574409,-122.224087,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"NORTH PONT [PIER 41], S.F. Bay",9414305
+NB-1751,NB-1751,NA,NA,37.574408,-122.212859,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1752,NB-1752,NA,NA,37.574409,-122.201327,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1753,NB-1753,NA,NA,37.574409,-122.189907,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1754,NB-1754,NA,NA,37.574409,-122.178759,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1755,NB-1755,NA,NA,37.574409,-122.167692,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1756,NB-1756,NA,NA,37.574408,-122.156335,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1757,NB-1757,NA,NA,37.574238,-122.14421,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1758,NB-1758,NA,NA,37.565839,-122.248045,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1759,NB-1759,NA,NA,37.565486,-122.236162,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1760,NB-1760,NA,NA,37.565486,-122.224098,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1761,NB-1761,NA,NA,37.565485,-122.21286,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1762,NB-1762,NA,NA,37.565486,-122.20132,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1763,NB-1763,NA,NA,37.565486,-122.1899,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1764,NB-1764,NA,NA,37.565486,-122.178755,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1765,NB-1765,NA,NA,37.565486,-122.167694,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1766,NB-1766,NA,NA,37.565485,-122.156336,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1767,NB-1767,NA,NA,37.565336,-122.141014,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1768,NB-1768,NA,NA,37.557076,-122.238379,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1769,NB-1769,NA,NA,37.557039,-122.224107,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1770,NB-1770,NA,NA,37.557038,-122.212861,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1771,NB-1771,NA,NA,37.557039,-122.201313,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1772,NB-1772,NA,NA,37.557039,-122.189893,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1773,NB-1773,NA,NA,37.557039,-122.178751,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1774,NB-1774,NA,NA,37.557039,-122.167695,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1775,NB-1775,NA,NA,37.557038,-122.156336,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1776,NB-1776,NA,NA,37.557039,-122.144444,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1777,NB-1777,NA,NA,37.556882,-122.13269,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1778,NB-1778,NA,NA,37.549298,-122.227606,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1779,NB-1779,NA,NA,37.548829,-122.212862,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1780,NB-1780,NA,NA,37.548829,-122.201306,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1781,NB-1781,NA,NA,37.54883,-122.189887,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1782,NB-1782,NA,NA,37.54883,-122.178747,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1783,NB-1783,NA,NA,37.54883,-122.167696,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1784,NB-1784,NA,NA,37.548829,-122.156337,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1785,NB-1785,NA,NA,37.54883,-122.144442,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1786,NB-1786,NA,NA,37.548829,-122.133009,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1787,NB-1787,NA,NA,37.548357,-122.123465,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1788,NB-1788,NA,NA,37.542508,-122.212785,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1789,NB-1789,NA,NA,37.541156,-122.200939,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1790,NB-1790,NA,NA,37.540198,-122.189875,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1791,NB-1791,NA,NA,37.540194,-122.178743,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1792,NB-1792,NA,NA,37.540194,-122.167698,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1793,NB-1793,NA,NA,37.540194,-122.156338,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1794,NB-1794,NA,NA,37.540194,-122.14444,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1795,NB-1795,NA,NA,37.540194,-122.133009,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1796,NB-1796,NA,NA,37.540071,-122.121571,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1797,NB-1797,NA,NA,37.531717,-122.189797,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1798,NB-1798,NA,NA,37.531779,-122.178739,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1799,NB-1799,NA,NA,37.531749,-122.167699,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-180,NB-180,NA,NA,38.259608,-122.285096,Napa River,North Bay,Napa River,NPR,Mainstem,"NAPA, NAPA RIVER",9415623
+NB-1800,NB-1800,NA,NA,37.531748,-122.156338,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1801,NB-1801,NA,NA,37.531749,-122.144438,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1802,NB-1802,NA,NA,37.531749,-122.133009,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1803,NB-1803,NA,NA,37.531749,-122.122372,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1804,NB-1804,NA,NA,37.531524,-122.114787,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1805,NB-1805,NA,NA,37.516879,-122.208276,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1806,NB-1806,NA,NA,37.523662,-122.178634,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1807,NB-1807,NA,NA,37.523595,-122.1677,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1808,NB-1808,NA,NA,37.523594,-122.156339,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1809,NB-1809,NA,NA,37.523594,-122.144436,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1810,NB-1810,NA,NA,37.523594,-122.133009,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1811,NB-1811,NA,NA,37.523594,-122.122372,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1812,NB-1812,NA,NA,37.523537,-122.114023,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1813,NB-1813,NA,NA,37.515651,-122.176895,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1814,NB-1814,NA,NA,37.515507,-122.167702,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1815,NB-1815,NA,NA,37.515509,-122.15634,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1816,NB-1816,NA,NA,37.515513,-122.144435,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1817,NB-1817,NA,NA,37.515516,-122.133009,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1818,NB-1818,NA,NA,37.515519,-122.122373,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1819,NB-1819,NA,NA,37.51551,-122.113789,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1820,NB-1820,NA,NA,37.507331,-122.167317,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1821,NB-1821,NA,NA,37.506909,-122.156342,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1822,NB-1822,NA,NA,37.507672,-122.144899,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1823,NB-1823,NA,NA,37.508808,-122.132912,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-1824,NB-1824,NA,NA,37.509882,-122.12355,South San Francisco Bay,South Bay,South Bay,SBY,Open Bay,"SAN MATEO BRIDGE, EAST END",9414637
+NB-190,NB-190,NA,NA,38.251454,-122.284446,Napa River,North Bay,Napa River,NPR,Mainstem,"NAPA, NAPA RIVER",9415623
+NB-200,NB-200,NA,NA,38.242509,-122.285838,Napa River,North Bay,Napa River,NPR,Mainstem,"NAPA, NAPA RIVER",9415623
+NB-201,NB-201,NA,NA,38.24867,-122.289245,Napa River,North Bay,Horseshoe Bend,HOR,Slough,"NAPA, NAPA RIVER",9415623
+NB-201Pond,NB-201Pond,NA,NA,38.250753,-122.288237,Napa River,North Bay,Horseshoe Bend Restored Pond South,HBS,Restoration Pond,"NAPA, NAPA RIVER",9415623
+NB-203,NB-203,NA,NA,38.253,-122.290145,Napa River,North Bay,Horseshoe Bend,HOR,Slough,"NAPA, NAPA RIVER",9415623
+NB-203Pond,NB-203Pond,NA,NA,38.260421,-122.292478,Napa River,North Bay,Horseshoe Bend Restored Pond North,HBN,Restoration Pond,"NAPA, NAPA RIVER",9415623
+NB-210,NB-210,NA,NA,38.234721,-122.288939,Napa River,North Bay,Napa River,NPR,Mainstem,"NAPA, NAPA RIVER",9415623
+NB-220,NB-220,NA,NA,38.22978,-122.297601,Napa River,North Bay,Napa River,NPR,Mainstem,"BRAZOS DRAWBRIDGE,NAPA RIVER",9415446
+NB-230,NB-230,NA,NA,38.224995,-122.306303,Napa River,North Bay,Napa River,NPR,Mainstem,"BRAZOS DRAWBRIDGE,NAPA RIVER",9415446
+NB-232,NB-232 ,NA ,NA,#N/A,#N/A,Napa River,North Bay,Napa River,NPR,Slough  ,"BRAZOS DRAWBRIDGE, NAPA RIVER, CA",9415446
+NB-240,NB-240,NA,NA,38.217411,-122.310045,Napa River,North Bay,Napa River,NPR,Mainstem,"BRAZOS DRAWBRIDGE,NAPA RIVER",9415446
+NB-242,NB-242,NA,NA,38.218628,-122.30424,Napa River,North Bay,Steamboat Slough,SBS,Slough,"BRAZOS DRAWBRIDGE,NAPA RIVER",9415446
+NB-244,NB-244,NA,NA,38.221193,-122.300031,Napa River,North Bay,Steamboat Slough,SBS,Slough,"BRAZOS DRAWBRIDGE,NAPA RIVER",9415446
+NB-246,NB-246,NA,NA,38.225561,-122.302254,Napa River,North Bay,Steamboat Slough,SBS,Slough,"BRAZOS DRAWBRIDGE,NAPA RIVER",9415446
+NB-250,NB-250,NA,NA,38.209007,-122.3074,Napa River,North Bay,Napa River,NPR,Mainstem,"BRAZOS DRAWBRIDGE,NAPA RIVER",9415446
+NB-252,NB-252,NA,NA,38.213346,-122.303082,Napa River,North Bay,Fagan Slough,FAG,Slough Adjacent to Restoration Pond,"BRAZOS DRAWBRIDGE,NAPA RIVER",9415446
+NB-254,NB-254,NA,NA,38.212979,-122.293987,Napa River,North Bay,Fagan Slough,FAG,Slough Adjacent to Restoration Pond,"BRAZOS DRAWBRIDGE,NAPA RIVER",9415446
+NB-256,NB-256,NA,NA,38.217454,-122.292597,Napa River,North Bay,Fagan Slough,FAG,Slough Adjacent to Restoration Pond,"BRAZOS DRAWBRIDGE,NAPA RIVER",9415446
+NB-260,NB-260,NA,NA,38.201268,-122.311752,Napa River,North Bay,Napa River,NPR,Mainstem,"BRAZOS DRAWBRIDGE,NAPA RIVER",9415446
+NB-270,NB-270,NA,NA,38.192413,-122.314112,Napa River,North Bay,Napa River,NPR,Mainstem,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-271,NB-271,NA,NA,38.194499,-122.318832,Napa River,North Bay,Mud Slough Napa,MDN,Slough Adjacent to Restoration Pond,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-271Pond,NB-271Pond,NA,NA,38.198101,-122.338375,Napa River,North Bay,HCU Pond 7,N7,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-273,NB-273,NA,NA,38.201991,-122.323289,Napa River,North Bay,Mud Slough Napa,MDN,Slough Adjacent to Restoration Pond,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-273Pond,NB-273Pond,NA,NA,38.201971,-122.342011,Napa River,North Bay,HCU Pond 7A,N7,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-275,NB-275,NA,NA,38.207014,-122.32019,Napa River,North Bay,Mud Slough Napa,MDN,Slough Adjacent to Restoration Pond,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-275Pond,NB-275Pond,NA,NA,38.199863,-122.319162,Napa River,North Bay,HCU Pond 8,N8,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-280,NB-280,NA,NA,38.183191,-122.311982,Napa River,North Bay,Napa River,NPR,Mainstem,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-281,NB-281,NA,NA,38.184406,-122.320496,Napa River,North Bay,Napa Slough,NPS,Slough Adjacent to Restoration Pond,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-281Pond,NB-280Pond,NA,NA,#N/A,#N/A,Napa River,North Bay,NRU Pond 5,N5,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-283,NB-283,NA,NA,38.190885,-122.32935,Napa River,North Bay,Napa Slough,NPS,Slough Adjacent to Restoration Pond,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-283Pond,NB-283Pond,NA,NA,38.162479,-122.32377,Napa River,North Bay,NRU Pond 2,N2,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-285,NB-285,NA,NA,38.191268,-122.338042,Napa River,North Bay,Napa Slough,NPS,Slough Adjacent to Restoration Pond,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-285A,NB-285A,NA,NA,38.180654,-122.336949,Napa River,North Bay,Napa Slough,NPS,Slough Adjacent to Restoration Pond,"NAPA, NAPA RIVER",9415623
+NB-285Pond,NB-285Pond,NA,NA,38.161985,-122.342808,Napa River,North Bay,NRU Pond 2,N2,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-287,NB-287,NA,NA,38.191805,-122.348144,Napa River,North Bay,Napa Slough,NPS,Slough Adjacent to Restoration Pond,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-287Pond,NB-287Pond,NA,NA,38.187669,-122.349059,Napa River,North Bay,NRU Pond 6A,N6,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-289,NB-289,NA,NA,38.196402,-122.35669,Napa River,North Bay,Napa Slough,NPS,Slough Adjacent to Restoration Pond,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-289Pond,NB-289Pond,NA,NA,38.175536,-122.352201,Napa River,North Bay,NRU Pond 6,N6,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-290,NB-290,NA,NA,38.17978,-122.302233,Napa River,North Bay,Napa River,NPR,Mainstem,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-290Pond,NB-290Pond,NA,NA,38.170272,-122.310627,Napa River,North Bay,NRU Pond 4,N4,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-300,NB-300,NA,NA,37.454726,-121.941563,Napa River,North Bay,Napa River,NPR,Mainstem,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-300Pond,NB-300Pond,NA,NA,38.168554,-122.300731,Napa River,North Bay,NRU Pond 4,N4,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-310,NB-310,NA,NA,37.455548,-121.949729,Napa River,North Bay,Napa River,NPR,Mainstem,"EDGERLEY ISLAND, NAPA RIVER",9415415
+NB-310Pond,NB-310Pond,NA,NA,38.160168,-122.311473,Napa River,North Bay,NRU Pond 4,N4,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-320,NB-320,NA,NA,37.459986,-121.955488,Napa River,North Bay,Napa River,NPR,Mainstem,"MARE ISLAND STAIT, CA",9415165
+NB-320Pond,NB-320Pond,NA,NA,38.158859,-122.302268,Napa River,North Bay,NRU Pond 4,N4,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-330,NB-330,NA,NA,38.149347,-122.289791,Napa River,North Bay,Napa River,NPR,Mainstem,"MARE ISLAND STAIT, CA",9415165
+NB-330Pond,NB-330Pond,NA,NA,38.147678,-122.302814,Napa River,North Bay,NRU Pond 4,N4,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-340,NB-340,NA,NA,38.144023,-122.277073,Napa River,North Bay,Napa River,NPR,Mainstem,"MARE ISLAND STAIT, CA",9415165
+NB-341,NB-341,NA,NA,38.143192,-122.293005,Napa River,North Bay,South Slough,SSL,Slough Adjacent to Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-341Pond,NB-341Pond,NA,NA,38.137896,-122.291239,Napa River,North Bay,NRU Pond 3 Knight Island,N3,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-343,NB-343,NA,NA,38.141564,-122.304206,Napa River,North Bay,South Slough,SSL,Slough Adjacent to Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-343B,NB-343B,NA,,38.15308,-122.30443,Napa River,North Bay,South Slough,SSL,Slough Adjacent to Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-343B,NB-343B,NA,,38.15308,-122.30443,Napa River,North Bay,South Slough,SSL,Slough Adjacent to Restoration Pond,,
+NB-343Pond,NB-343Pond,NA,NA,38.137765,-122.302884,Napa River,North Bay,NRU Pond 3 Knight Island,N3,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-345,NB-345,NA,NA,38.146363,-122.312453,Napa River,North Bay,South Slough,SSL,Slough Adjacent to Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-345Pond,NB-345Pond,NA,NA,38.144493,-122.315567,Napa River,North Bay,NRU Pond 3 Knight Island,N3,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-347,NB-347,NA,NA,38.149333,-122.318689,Napa River,North Bay,South Slough,SSL,Slough Adjacent to Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-347Pond,NB-347Pond,NA,NA,38.142435,-122.324321,Napa River,North Bay,NRU Pond 3 Knight Island,N3,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-349Pond,NB-349Pond,NA,NA,38.151459,-122.321077,Napa River,North Bay,NRU Pond 2A,N2,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-350,NB-350,NA,NA,38.134406,-122.27637,Napa River,North Bay,Napa River,NPR,Mainstem,"MARE ISLAND STAIT, CA",9415165
+NB-360,NB-360,NA,NA,38.124709,-122.279063,Napa River,North Bay,Napa River,NPR,Mainstem,"MARE ISLAND STAIT, CA",9415165
+NB-361,NB-361,NA,NA,38.12191,-122.289746,Napa River,North Bay,Dutchman Slough,DUT,Slough Adjacent to Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-361Pond,NB-361Pond,NA,NA,38.127806,-122.290656,Napa River,North Bay,NRU Pond 3 Knight Island,N3,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-363,NB-363,NA,NA,38.125415,-122.298345,Napa River,North Bay,Dutchman Slough,DUT,Slough Adjacent to Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-365,NB-365,NA,NA,38.130112,-122.304742,Napa River,North Bay,Dutchman Slough,DUT,Slough Adjacent to Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-365Pond,NB-365Pond,NA,NA,38.131458,-122.301848,Napa River,North Bay,NRU Pond 3 Knight Island,N3,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-367,NB-367,NA,NA,38.135966,-122.312526,Napa River,North Bay,Dutchman Slough,DUT,Slough Adjacent to Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-367Pond,NB-367Pond,NA,NA,38.138417,-122.313299,Napa River,North Bay,NRU Pond 3 Knight Island,N3,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-369,NB-369,NA,NA,38.137661,-122.320556,Napa River,North Bay,Dutchman Slough,DUT,Slough Adjacent to Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-369Pond,NB-369Pond,NA,NA,38.139203,-122.322916,Napa River,North Bay,NRU Pond 3 Knight Island,N3,Restoration Pond,"MARE ISLAND STAIT, CA",9415165
+NB-370,NB-370,NA,NA,38.116482,-122.277843,Napa River,North Bay,Napa River,NPR,Mainstem,"MARE ISLAND STAIT, CA",9415165
+NB-380,NB-380,NA,NA,38.108517,-122.272443,Napa River,North Bay,Napa River,NPR,Mainstem,"MARE ISLAND STAIT, CA",9415165
+NB-390,NB-390,NA,NA,38.100993,-122.266421,Napa River,North Bay,Napa River,NPR,Mainstem,"MARE ISLAND STAIT, CA",9415165
+NB-400,NB-400,NA,NA,38.09343,-122.259545,Napa River,North Bay,Napa River,NPR,Mainstem,"MARE ISLAND, CA",9415218
+NB-410,NB-410,NA,NA,38.08663,-122.253353,Napa River,North Bay,Napa River,NPR,Mainstem,"MARE ISLAND, CA",9415218
+NB-420,NB-420,NA,NA,38.078624,-122.245761,Napa River,North Bay,Napa River,NPR,Mainstem,"MARE ISLAND, CA",9415218
+NB-430,NB-430,NA,NA,38.070082,-122.242136,Carquinez Straight,North Bay,Carquinez Straight,CAR,Mainstem,"MARE ISLAND, CA",9415218
+NB-440,NB-440,NA,NA,38.062559,-122.230579,Carquinez Straight,North Bay,Carquinez Straight,CAR,Mainstem,"MARE ISLAND, CA",9415218
+NB-450,NB-450,NA,NA,38.061076,-122.241875,Carquinez Straight,North Bay,Carquinez Straight,CAR,Mainstem,"MARE ISLAND, CA",9415218
+NB-460,NB-460,NA,NA,38.067682,-122.253727,Carquinez Straight,North Bay,Carquinez Straight,CAR,Mainstem,"MARE ISLAND, CA",9415218
+NB-470,NB-470,NA,NA,38.056447,-122.254829,Carquinez Straight,North Bay,Carquinez Straight,CAR,Mainstem,"MARE ISLAND, CA",9415218
+NB-480,NB-480,NA,NA,38.063213,-122.264798,Carquinez Straight,North Bay,Carquinez Straight,CAR,Mainstem,"MARE ISLAND, CA",9415218
+NB-490,NB-490,NA,NA,38.048842,-122.265911,Carquinez Straight,North Bay,Carquinez Straight,CAR,Mainstem,"MARE ISLAND, CA",9415218
+NB-500,NB-500,NA,NA,38.22802,-122.440831,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,"SONOMA CREEK, WINGO",9415447
+NB-510,NB-510,NA,NA,38.22591,-122.43824,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,"SONOMA CREEK, WINGO",9415447
+NB-520,NB-520,NA,NA,38.227759,-122.427631,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,"SONOMA CREEK, WINGO",9415447
+NB-522,NB-522,NA,NA,38.231017,-122.426891,Sonoma Creek,North Bay,Sonoma Creek,SON,Slough,"SONOMA CREEK, WINGO",9415447
+NB-524,NB-524,NA,NA,38.235866,-122.431116,Sonoma Creek,North Bay,Sonoma Creek,SON,Slough,"SONOMA CREEK, WINGO",9415447
+NB-530,NB-530,NA,NA,38.226577,-122.420745,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,"SONOMA CREEK, WINGO",9415447
+NB-540,NB-540,NA,NA,38.220628,-122.423021,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,"SONOMA CREEK, WINGO",9415447
+NB-542,NB-542,NA,NA,38.221119,-122.414949,Sonoma Creek,North Bay,Sonoma Creek,SON,Slough,"SONOMA CREEK, WINGO",9415447
+NB-550,NB-550,NA,NA,38.214677,-122.425438,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,"SONOMA CREEK, WINGO",9415447
+NB-560,NB-560,NA,NA,38.211966,-122.416972,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,"SONOMA CREEK, WINGO",9415447
+NB-570,NB-570,NA,NA,38.208053,-122.408514,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,"SONOMA CREEK, WINGO",9415447
+NB-580,NB-580,NA,NA,38.203094,-122.399899,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,"SONOMA CREEK, WINGO",9415447
+NB-590,NB-590,NA,NA,38.196604,-122.393108,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,Sonoma Creek Entrance,9415338
+NB-592,NB-592,NA,NA,38.199766,-122.388073,Sonoma Creek,North Bay,Sonoma Creek,SON,Slough,Sonoma Creek Entrance,9415338
+NB-600,NB-600,NA,NA,38.190556,-122.396434,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,Sonoma Creek Entrance,9415338
+NB-610,NB-610,NA,NA,38.18863,-122.40728,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,Sonoma Creek Entrance,9415338
+NB-620,NB-620,NA,NA,38.187371,-122.417542,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,Sonoma Creek Entrance,9415338
+NB-621,NB-621,NA,NA,38.18971,-122.425179,Sonoma Creek,North Bay,Sonoma Creek,SON,Slough,Sonoma Creek Entrance,9415338
+NB-623,NB-623,NA,NA,38.194848,-122.431259,Sonoma Creek,North Bay,Sonoma Creek,SON,Slough,Sonoma Creek Entrance,9415338
+NB-625,NB-625,NA,NA,38.199771,-122.432625,Sonoma Creek,North Bay,Sonoma Creek,SON,Slough,Sonoma Creek Entrance,9415338
+NB-627,NB-627,NA,NA,38.206794,-122.428377,Sonoma Creek,North Bay,Sonoma Creek,SON,Slough,Sonoma Creek Entrance,9415338
+NB-630,NB-630,NA,NA,38.180793,-122.418642,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,Sonoma Creek Entrance,9415338
+NB-640,NB-640,NA,NA,38.172111,-122.41573,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,Sonoma Creek Entrance,9415338
+NB-650,NB-650,NA,NA,38.164493,-122.418564,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,Sonoma Creek Entrance,9415338
+NB-660,NB-660,NA,NA,38.161803,-122.414072,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,Sonoma Creek Entrance,9415338
+NB-670,NB-670,NA,NA,38.156093,-122.406754,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,Sonoma Creek Entrance,9415338
+NB-700,NB-700,NA,NA,38.241209,-122.639686,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Petaluma River, Upper Drawbridge",9415584
+NB-710,NB-710,NA,NA,38.235652,-122.637587,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Petaluma River, Upper Drawbridge",9415584
+NB-720,NB-720,NA,NA,38.23149,-122.629091,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Petaluma River, Upper Drawbridge",9415584
+NB-730,NB-730,NA,NA,38.228889,-122.619091,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Petaluma River, Upper Drawbridge",9415584
+NB-740,NB-740,NA,NA,38.225445,-122.608791,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Petaluma River, Upper Drawbridge",9415584
+NB-750,NB-750,NA,NA,38.22121,-122.599855,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Petaluma River, Upper Drawbridge",9415584
+NB-760,NB-760,NA,NA,38.216968,-122.591211,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Petaluma River, Upper Drawbridge",9415584
+NB-760Pond,NB-760Pond,NA,NA,38.221501,-122.590922,Petaluma River,North Bay,Petaluma River,PET,Restoration Pond,"Petaluma River, Upper Drawbridge",9415584
+NB-762,NB-762,NA,NA,38.21896,-122.587089,Petaluma River,North Bay,Petaluma River,PET,Slough,"Petaluma River, Upper Drawbridge",9415584
+NB-770,NB-770,NA,NA,38.210073,-122.583763,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Lakeville, Petaluma River",TWC0649
+NB-772,NB-772,NA,NA,38.212474,-122.585046,Petaluma River,North Bay,Petaluma River,PET,Slough,"Lakeville, Petaluma River",TWC0649
+NB-780,NB-780,NA,NA,38.205542,-122.574104,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Lakeville, Petaluma River",TWC0649
+NB-782,NB-782,NA,NA,38.209225,-122.579314,Petaluma River,North Bay,Petaluma River,PET,Slough,"Lakeville, Petaluma River",TWC0649
+NB-790,NB-790,NA,NA,38.200296,-122.56522,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Lakeville, Petaluma River",TWC0649
+NB-792,NB-792,NA,NA,38.208715,-122.567674,Petaluma River,North Bay,Petaluma River,PET,Slough,"Lakeville, Petaluma River",TWC0649
+NB-800,NB-800,NA,NA,38.198544,-122.556173,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Lakeville, Petaluma River",TWC0649
+NB-810,NB-810,NA,NA,38.195869,-122.547866,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Lakeville, Petaluma River",TWC0649
+NB-820,NB-820,NA,NA,38.18725,-122.545043,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Lakeville, Petaluma River",TWC0649
+NB-830,NB-830,NA,NA,38.179223,-122.540278,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Lakeville, Petaluma River",TWC0649
+NB-840,NB-840,NA,NA,38.172239,-122.533678,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"Lakeville, Petaluma River",TWC0649
+NB-850,NB-850,NA,NA,38.1661,-122.537631,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"HOG IS.,SAN ANTONIO CREEK",9415344
+NB-860,NB-860,NA,NA,38.159855,-122.543793,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"HOG IS.,SAN ANTONIO CREEK",9415344
+NB-861,NB-861,NA,NA,38.157971,-122.549595,Petaluma River,North Bay,Mud Slough Petaluma,MDP,Slough Adjacent to Restoration Pond,"HOG IS.,SAN ANTONIO CREEK",9415344
+NB-863,NB-863,NA,NA,38.161798,-122.55696,Petaluma River,North Bay,Mud Slough Petaluma,MDP,Slough Adjacent to Restoration Pond,"HOG IS.,SAN ANTONIO CREEK",9415344
+NB-865,NB-865,NA,NA,38.167817,-122.553979,Petaluma River,North Bay,Mud Slough Petaluma,MDP,Slough Adjacent to Restoration Pond,"HOG IS.,SAN ANTONIO CREEK",9415344
+NB-867,NB-867,NA,NA,38.169967,-122.560708,Petaluma River,North Bay,Mud Slough Petaluma,MDP,Slough Adjacent to Restoration Pond,"HOG IS.,SAN ANTONIO CREEK",9415344
+NB-869,NB-869,NA,NA,38.175737,-122.56618,Petaluma River,North Bay,Mud Slough Petaluma,MDP,Slough Adjacent to Restoration Pond,"HOG IS.,SAN ANTONIO CREEK",9415344
+NB-869Pond,NB-869Pond,NA,NA,#N/A,#N/A,Petaluma River,North Bay,Mud Slough Petaluma,MDP,Restoration Pond,"Petaluma River, Upper Drawbridge",9415584
+NB-870,NB-870,NA,NA,38.152394,-122.538497,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"HOG IS.,SAN ANTONIO CREEK",9415344
+NB-880,NB-880,NA,NA,38.146664,-122.529875,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"HOG IS.,SAN ANTONIO CREEK",9415344
+NB-890,NB-890,NA,NA,38.141254,-122.520813,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"HOG IS.,SAN ANTONIO CREEK",9415344
+NB-900,NB-900,NA,NA,38.133898,-122.514344,Petaluma River,North Bay,Petaluma River,PET,Mainstem,"HOG IS.,SAN ANTONIO CREEK",9415344
+NB-901,NB-901,NA,NA,38.135807,-122.522194,Petaluma River,North Bay,Petaluma River,PET,Slough Adjacent to Restoration Pond,PETALUMA RIVER ENTRANCE,9415252
+NB-910,NB-910,NA,NA,38.125165,-122.511166,Petaluma River,North Bay,Petaluma River,PET,Mainstem,PETALUMA RIVER ENTRANCE,9415252
+NB-920,NB-920,NA,NA,38.117268,-122.507046,Petaluma River,North Bay,Petaluma River,PET,Mainstem,PETALUMA RIVER ENTRANCE,9415252
+NB-930,NB-930,NA,NA,38.11219,-122.498015,Petaluma River,North Bay,Petaluma River,PET,Mainstem,PETALUMA RIVER ENTRANCE,9415252
+NB-940,NB-940,NA,NA,38.096169,-122.48977,Novato Creek,North Bay,Novato Creek,NOV,Mainstem,PETALUMA RIVER ENTRANCE,9415252
+NB-950,NB-950,NA,NA,38.089349,-122.499211,Novato Creek,North Bay,Novato Creek,NOV,Mainstem,PETALUMA RIVER ENTRANCE,9415252
+NB-960,NB-960,NA,NA,38.086245,-122.511186,Novato Creek,North Bay,Novato Creek,NOV,Mainstem,PETALUMA RIVER ENTRANCE,9415252
+NB-970,NB-970,NA,NA,38.085509,-122.527109,Novato Creek,North Bay,Novato Creek,NOV,Mainstem,PETALUMA RIVER ENTRANCE,9415252
+NB-980,NB-980,NA,NA,38.016837,-122.502355,Gallinas Creek,North Bay,Gallinas Creek,GAL,Mainstem,"GALLINAS, GALLINAS CREEK",9415052
+NB-990,NB-990,NA,NA,38.018167,-122.512129,Gallinas Creek,North Bay,Gallinas Creek,GAL,Mainstem,"GALLINAS, GALLINAS CREEK",9415052
+NB-991,NB-991,NA,NA,38.01537,-122.519405,Gallinas Creek,North Bay,Gallinas Creek,GAL,Slough,"GALLINAS, GALLINAS CREEK",9415052
+NB-992,NB-992,NA,NA,38.009958,-122.526294,Gallinas Creek,North Bay,Gallinas Creek,GAL,Slough ,"GALLINAS, GALLINAS CREEK",9415052
+NEW 1,Legacy,NEW 1,1,,,Newark Marsh,South Bay,Newark Marsh,NEW,unkown,,
+NEW 2,Legacy,NEW 2,2,,,Newark Marsh,South Bay,Newark Marsh,NEW,unkown,,
+NEW 3,Legacy,NEW 3,3,,,Newark Marsh,South Bay,Newark Marsh,NEW,unkown,,
+NEW 4,Legacy,NEW 4,4,,,Newark Marsh,South Bay,Newark Marsh,NEW,unkown,,
+NEW 6,Legacy,NEW 6,6,,,Newark Marsh,South Bay,Newark Marsh,NEW,unkown,,
+NEW 7,Legacy,NEW 7,7,,,Newark Marsh,South Bay,Newark Marsh,NEW,unkown,,
+PET 1,Legacy,PET 1,1,38.227792,-122.612553,Petaluma River,North Bay,Petaluma River,PET,Mainstem,,
+PET 2,Legacy,PET 2,2,38.214533,-122.583167,Petaluma River,North Bay,Petaluma River,PET,Mainstem,,
+PET 3,Legacy,PET 3,3,38.209383,-122.565417,Petaluma River,North Bay,Petaluma River,PET,Mainstem,,
+PET 4,Legacy,PET 4,4,38.203667,-122.568217,Petaluma River,North Bay,Petaluma River,PET,Mainstem,,
+PET 5,Legacy,PET 5,5,38.194433,-122.547383,Petaluma River,North Bay,Petaluma River,PET,Mainstem,,
+PET 6,Legacy,PET 6,6,38.12967,-122.51256,Petaluma River,North Bay,Petaluma River,PET,Mainstem,,
+PET 7,Legacy,PET 7,7,38.14198,-122.52125,Petaluma River,North Bay,Petaluma River,PET,Mainstem,,
+PET 8,Legacy,PET 8,8,38.16699,-122.53321,Petaluma River,North Bay,Petaluma River,PET,Mainstem,,
+PET 9,Legacy,PET 9,9,38.18334,-122.54273,Petaluma River,North Bay,Petaluma River,PET,Mainstem,,
+PET FAC,Legacy,PET FAC,,,,Petaluma River,North Bay,Petaluma River,PET,Mainstem,,
+PET OX BOW 1,Legacy,PET OX BOW 1,1,,,Petaluma River,North Bay,Petaluma Oxbow,OXB,Slough,,
+PET OX BOW 2,Legacy,PET OX BOW 2,2,,,Petaluma River,North Bay,Petaluma Oxbow,OXB,Slough,,
+PET RES BRE,Legacy,PET RES BRE,,,,Petaluma River,North Bay,Petaluma River,PET,Mainstem,,
+PET-BOW,Legacy,PET-BOW,,,,Petaluma River,North Bay,Petaluma Oxbow,OXB,Slough,,
+POND 5 1,Legacy,POND 5 1,1,38.1827,-122.32345,Napa River,North Bay,Pond 5,P5,Restoration Pond,,
+POND 5 2,Legacy,POND 5 2,2,38.187283,-122.328683,Napa River,North Bay,Pond 5,P5,Restoration Pond,,
+RED 1,Legacy,RED 1,1,,,Bair Island,South Bay,Redwood Creek,RED,unkown,,
+RWY 1,Legacy,RWY 1,1,Unknown,,Unknown,Unknown,Unknown,UNK,Unknown,Unknown,Unknown
+SAN 1,Legacy,SAN 1,1,38.105364,-122.477176,San Pablo Bay,North Bay,San Pablo Bay,SPB,Open Bay,"POINT SAN PEDRO, SAN FRANCISCO BAY",9415009
+SB-100,SB-100,NA,NA,37.455743,-121.928007,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-110,SB-110,NA,NA,37.457433,-121.931959,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-120,SB-120,NA,NA,37.462327,-121.937006,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-130,SB-130,NA,NA,37.4671,-121.944141,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-140,SB-140,NA,NA,37.46419,-121.947985,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-150,SB-150,NA,NA,37.462506,-121.956491,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-160,SB-160,NA,NA,37.461785,-121.967319,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-170,SB-170,NA,NA,37.460769,-121.977462,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-180,SB-180,NA,NA,37.46283,-121.98878,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-190,SB-190,NA,NA,37.466295,-121.99683,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-200,SB-200,NA,NA,37.465643,-122.008583,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-210,SB-210,NA,NA,37.465051,-122.019738,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-220,SB-220,NA,NA,37.465211,-122.031986,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-230,SB-230,NA,NA,37.462425,-122.041478,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-300,SB-300,NA,NA,#N/A,#N/A,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-310,SB-310,NA,NA,#N/A,#N/A,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-320,SB-320,NA,NA,#N/A,#N/A,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-400,SB-400,NA,NA,37.443233,-121.961972,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-410,SB-410,NA,NA,37.446732,-121.966404,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-420,SB-420,NA,NA,37.452589,-121.966949,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-430,SB-430,NA,NA,37.459499,-121.966133,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-500,SB-500,NA,NA,37.426958,-121.980313,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-510,SB-510,NA,NA,37.431831,-121.987709,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-520,SB-520,NA,NA,37.437748,-121.994554,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-530,SB-530,NA,NA,37.441938,-122.002721,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-540,SB-540,NA,NA,37.44652,-122.010734,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-550,SB-550,NA,NA,37.449618,-122.018721,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-560,SB-560,NA,NA,37.45774,-122.021483,Alviso Marsh,South Bay,South Bay,SBY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-600,SB-600,NA,NA,37.460093,-122.05193,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-610,SB-610,NA,NA,37.453161,-122.045179,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-611,SB-611,NA,NA,37.451111,-122.033439,Alviso Marsh,South Bay,Guadalupe Slough,GUA,Slough Adjacent to Restoration Pond,"Dumbarton Bridge, CA",9414509
+SB-620,SB-620,NA,NA,37.449406,-122.057309,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-630,SB-630,NA,NA,37.455345,-122.062741,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-640,SB-640,NA,NA,37.452612,-122.074918,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-650,SB-650,NA,NA,37.467836,-122.0594,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-660,SB-660,NA,NA,37.463435,-122.069993,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-670,SB-670,NA,NA,37.458889,-122.080777,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-680,SB-680,NA,NA,37.455736,-122.089546,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-690,SB-690,NA,NA,37.479756,-122.058397,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-700,SB-700,NA,NA,37.475334,-122.066962,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-710,SB-710,NA,NA,37.471059,-122.077303,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-720,SB-720,NA,NA,37.466739,-122.087778,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-730,SB-730,NA,NA,37.46323,-122.099025,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-740,SB-740,NA,NA,37.487169,-122.063717,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-750,SB-750,NA,NA,37.482874,-122.074374,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-760,SB-760,NA,NA,37.478817,-122.084489,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-770,SB-770,NA,NA,37.474643,-122.094846,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-780,SB-780,NA,NA,37.470289,-122.105609,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-790,SB-790,NA,NA,#N/A,#N/A,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-800,SB-800,NA,NA,37.494112,-122.071219,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-810,SB-810,NA,NA,37.490202,-122.081504,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-820,SB-820,NA,NA,37.48628,-122.091367,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-830,SB-830,NA,NA,37.482179,-122.101485,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-840,SB-840,NA,NA,37.477942,-122.112184,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-850,SB-850,NA,NA,#N/A,#N/A,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-860,SB-860,NA,NA,37.499481,-122.079367,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-870,SB-870,NA,NA,37.496998,-122.088098,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-880,SB-880,NA,NA,37.493192,-122.097719,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-890,SB-890,NA,NA,37.489226,-122.107564,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-900,SB-900,NA,NA,#N/A,#N/A,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-910,SB-910,NA,NA,37.497594,-122.112449,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-A16,NA,A16,,#N/A,#N/A,Alviso Marsh,South Bay,Pond A16,A16,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A17,NA,A17,,37.45694444,-121.97,Alviso Marsh,South Bay,Pond A17,A17,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A17:770,SB-770Pond,A17,,#N/A,#N/A,Alviso Marsh,South Bay,Pond A17,A17,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A18 1,NA,A18 1,1,,,Alviso Marsh,South Bay,Pond A18,A18,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A18 2,NA,A18 2,2,,,Alviso Marsh,South Bay,Pond A18,A18,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A18 4,NA,A18 4,4,,,Alviso Marsh,South Bay,Pond A18,A18,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A18 5,NA,A18 5,5,,,Alviso Marsh,South Bay,Pond A18,A18,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A18 6,NA,A18 6,6,,,Alviso Marsh,South Bay,Pond A18,A18,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A18:790,SB-790Pond,A18,,,,Alviso Marsh,South Bay,Pond A18,A18,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A18SBPower,NA,A18SBPower,,,,Alviso Marsh,South Bay,Pond A18,A18,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A19 1,SB-720Pond,A19 1,1,37.46362222,-121.9667778,Alviso Marsh,South Bay,Pond A19,A19,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A19 2,SB-710Pond,A19 2,2,37.46717778,-121.9660944,Alviso Marsh,South Bay,Pond A19,A19,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A19 3,NA,A19 3,3,37.47087222,-121.9567194,Alviso Marsh,South Bay,Pond A19,A19,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A19 4,SB-700Pond,A19 4,4,37.46237778,-121.9518722,Alviso Marsh,South Bay,Pond A19,A19,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A19:700,SB-700Pond,A19 4,4,,,Alviso Marsh,South Bay,Pond A19,A19,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A19:710,SB-710Pond,A19 2,2,,,Alviso Marsh,South Bay,Pond A19,A19,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A19:720,SB-720Pond,A19 1,1,,,Alviso Marsh,South Bay,Pond A19,A19,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A20,NA,A20,,37.46388889,-121.9694444,Alviso Marsh,South Bay,Pond A20,A20,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A21 1,SB-750Pond,A21 1,1,37.46380833,-121.9850944,Alviso Marsh,South Bay,Pond A21,A21,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A21 2,NA,A21 2,2,37.46929167,-121.978,Alviso Marsh,South Bay,Pond A21,A21,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A21 3,NA,A21 3,3,37.46590556,-121.9751444,Alviso Marsh,South Bay,Pond A21,A21,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A21 4,SB-750Pond,A21 4,4,37.46163056,-121.9768139,Alviso Marsh,South Bay,Pond A21,A21,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A21 5,NA,A21 5,5,37.461692,-121.976764,Alviso Marsh,South Bay,Pond A21,A21,Restoration Pond,,
+SB-A21:730,SB-730Pond,NA,NA,,,Alviso Marsh,South Bay,Pond A21,A21,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A21:740,SB-740Pond,NA,NA,,,Alviso Marsh,South Bay,Pond A21,A21,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A21:750,SB-750Pond,A21 1,1,,,Alviso Marsh,South Bay,Pond A21,A21,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A21:760,SB-760Pond,NA,NA,,,Alviso Marsh,South Bay,Pond A21,A21,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A6,NA,A06,,37.45563056,-122.0231028,Alviso Marsh,South Bay,Pond A6,A6,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-A6:780,SB-780Pond,A06,,,,Alviso Marsh,South Bay,Pond A6,A6,Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-ALV 0,,ALV 0,0,37.4228,-121.97576,Alviso Marsh,South Bay,Alviso Slough,ALV,Slough Adjacent to Restoration Pond,"Dumbarton Bridge, CA",9414509
+SB-ALV 1,SB-520,ALV 1,1,37.43819,-121.9943,Alviso Marsh,South Bay,Alviso Slough,ALV,Slough Adjacent to Restoration Pond,"Dumbarton Bridge, CA",9414509
+SB-ALV 2,SB-540,ALV 2,2,37.44652,-122.010734,Alviso Marsh,South Bay,Alviso Slough,ALV,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-ALV 3,SB-560,ALV 3,3,37.45774,-122.021483,Alviso Marsh,South Bay,Alviso Slough,ALV,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-ART 1,SB-410,ART 1,1,37.446732,-121.966404,Alviso Marsh,South Bay,Artesian Slough,ART,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-ART 2,SB-420,ART 2,2,37.452589,-121.966949,Alviso Marsh,South Bay,Artesian Slough,ART,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-ART 3,SB-430,ART 3,3,37.459499,-121.966133,Alviso Marsh,South Bay,Artesian Slough,ART,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-COY 1,SB-160,COY1,1,37.461785,-121.967319,Alviso Marsh,South Bay,Coyote Creek,COY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-COY 2,SB-170,COY2,2,37.460769,-121.977462,Alviso Marsh,South Bay,Coyote Creek,COY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-COY 3,SB-180,COY3,3,37.46283,-121.98878,Alviso Marsh,South Bay,Coyote Creek,COY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-COY 4,SB-230,COY4,4,37.462425,-122.041478,Alviso Marsh,South Bay,Coyote Creek,COY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-DUMP 1,na,DUMP 1,1,37.45332,-121.94421,Alviso Marsh,South Bay,Dump Slough,DMP,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-DUMP 2,na,DUMP 2,2,37.4625,-121.95947,Alviso Marsh,South Bay,Dump Slough,DMP,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-GUA 1,,GUA 1,1,37.43393,-122.00745,Alviso Marsh,South Bay,Guadalupe Slough,GUA,Slough Adjacent to Restoration Pond,,
+SB-LSB 1,SB-880,LSB1,1,37.493192,-122.097719,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-LSB 2,SB-760,LSB2,2,37.478817,-122.084489,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-LSB 3,SB-700,LSB3,3,37.475334,-122.066962,Lower South Bay,South Bay,Lower South Bay,LSB,Open Bay,"Dumbarton Bridge, CA",9414509
+SB-SVC,NA,SVC,,#N/A,#N/A,Alviso Marsh,South Bay,Coyote Creek,COY,Slough Adjacent to Restoration Pond,"COYOTE CREEK, TRIBUTARY #1, S.F. BAY",9414561
+SB-UCOY 0,,UCOY 0,0,37.4561,-121.93113,Alviso Marsh,South Bay,Coyote Creek,COY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-UCOY 1,SB-130,UCOY 1,1,37.4671,-121.944141,Alviso Marsh,South Bay,Coyote Creek,COY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-UCOY 1.5,,UCOY 1.5,1.5,37.46025,-121.94682,Alviso Marsh,South Bay,Coyote Creek,COY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-UCOY 2,SB-150,UCOY 2,2,37.462506,-121.956491,Alviso Marsh,South Bay,Coyote Creek,COY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SB-UCOY 3,,UCOY 3,3,37.46196,-121.96616,Alviso Marsh,South Bay,Coyote Creek,COY,Slough Adjacent to Restoration Pond,"Coyote Creek, CA",9414575
+SF2 O,Legacy,SF2 O,,,,Ravenswood Marsh,South Bay,Ravenswood Marsh,RAV,unkown,,
+SON,Legacy,SON,,,,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+SON 1,Legacy,SON 1,1,38.22847,-122.42719,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+SON 2,Legacy,SON 2,2,38.21763,-122.42696,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+SON 3,Legacy,SON 3,3,38.18842,-122.40447,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+SON 4,Legacy,SON 4,4,38.16997,-122.4148,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+SON 5,Legacy,SON 5,5,38.188331,-122.404931,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+SON 6,Legacy,SON 6,6,38.176197,-122.416103,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+SON 7,Legacy,SON 7,7,38.161181,-122.419576,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+SON 8,Legacy,SON 8,8,38.152513,-122.404988,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+SOUTHSL 1,Legacy,SOUTHSL 1,1,,,Napa River,North Bay,South Slough,SSL,Slough,,
+Spider Slough,Legacy,Spider Slough,,38.21991,-122.41283,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,Unknown,Unknown
+STE 1,Legacy,STE 1,1,,,Bair Island,South Bay,Steinburger Slough ,STS,unkown,,
+STE 2,Legacy,STE 2,2,,,Bair Island,South Bay,Steinburger Slough ,STS,unkown,,
+STE 3,Legacy,STE 3,3,,,Bair Island,South Bay,Steinburger Slough ,STS,unkown,,
+STEM 1,Legacy,STEM 1,1,38.219717,-122.310783,Napa River,North Bay,Steamboat Slough,SBS,unkown,,
+STEMBSL,Legacy,STEMBSL,,,,Napa River,North Bay,Steamboat Slough,SBS,unkown,,
+SVC,Legacy,SVC,,Unknown,,Unknown,Unknown,Unknown,UNK,Unknown,Unknown,Unknown
+UNAP 1,Legacy,UNAP 1,1,38.29662,-122.28218,Napa River,North Bay,Napa River,NPR,Mainstem,,
+UNAP 2,Legacy,UNAP 2,2,38.28177,-122.28218,Napa River,North Bay,Napa River,NPR,Mainstem,,
+UNAP 3,Legacy,UNAP 3,3,38.26511,-122.28463,Napa River,North Bay,Napa River,NPR,Mainstem,,
+UNAP 4,Legacy,UNAP 4,4,38.24458,-122.28541,Napa River,North Bay,Napa River,NPR,Mainstem,,
+UNAP 5,Legacy,UNAP 5,5,38.23605,-122.28762,Napa River,North Bay,Napa River,NPR,Mainstem,,
+UNAP 6,Legacy,UNAP 6,6,38.23093,-122.29712,Napa River,North Bay,Napa River,NPR,Mainstem,,
+UNAP 7,Legacy,UNAP 7,7,38.22124,-122.31002,Napa River,North Bay,Napa River,NPR,Mainstem,,
+UNAP 8,Legacy,UNAP 8,8,38.19768,-122.31477,Napa River,North Bay,Napa River,NPR,Mainstem,,
+Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,UNK,Unknown,Unknown,Unknown
+USON 1,Legacy,USON 1,1,38.22195,-122.42185,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+USON 2,Legacy,USON 2,2,38.200767,-122.3981,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+USON 3,Legacy,USON 3,3,38.21669,-122.42747,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+USON 4,Legacy,USON 4,4,38.20691,-122.4046,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
+USON-HWY 12,Legacy,USON-HWY 12,,38.23308,-122.43023,Sonoma Creek,North Bay,Sonoma Creek,SON,Mainstem,,
